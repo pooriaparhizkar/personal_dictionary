@@ -1,8 +1,10 @@
-import React, { useState } from "react";
+import React, { useRef, useState } from "react";
 import { SoundOutlined } from "@ant-design/icons";
 import { Button } from "antd";
 
 function ChildrenCreator({ item }) {
+  const usAudioRef = useRef(null);
+  const ukAudioRef = useRef(null);
   const [usSoundLoading, setUsSoundLoading] = useState(false);
   const [ukSoundLoading, setUkSoundLoading] = useState(false);
   const playAudio = (link) => {
@@ -41,14 +43,18 @@ function ChildrenCreator({ item }) {
         {item.pronounce_audio_us_link !== "Audio not found" && (
           <Button
             onClick={() => {
-              setUsSoundLoading(true);
-              playAudio(item.pronounce_audio_us_link);
+              usAudioRef.current.play();
             }}
             className="sound"
             loading={usSoundLoading}
             type="primary"
           >
             US <SoundOutlined />
+            <audio
+              ref={usAudioRef}
+              src={item.pronounce_audio_us_link}
+              controls
+            />
           </Button>
         )}
         {item.pronounce_audio_uk_link !== "Audio not found" && (
@@ -62,6 +68,11 @@ function ChildrenCreator({ item }) {
             type="primary"
           >
             UK <SoundOutlined />
+            <audio
+              ref={ukAudioRef}
+              src={item.pronounce_audio_uk_link}
+              controls
+            />
           </Button>
         )}
       </div>

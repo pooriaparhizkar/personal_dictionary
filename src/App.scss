@@ -71,6 +71,14 @@
             &:last-child {
               margin-left: 1px;
             }
+            audio {
+              height: 1px;
+              width: 1px;
+              opacity: 0 !important;
+              visibility: hidden;
+              position: absolute;
+              z-index: -1;
+            }
           }
         }
       }
