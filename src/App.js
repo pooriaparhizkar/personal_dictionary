@@ -1,5 +1,5 @@
 import wordsData from "./words_output.json";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Button, DatePicker, Collapse } from "antd";
 import dayjs from "dayjs";
 import { LeftOutlined, RightOutlined, SoundOutlined } from "@ant-design/icons";
@@ -9,6 +9,9 @@ function App() {
   const PERIOD = 14;
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
+  const [soundLoading, setSoundLoading] = useState(false);
+  const usSoundRef = useRef(null);
+  const ukSoundRef = useRef(null);
   function addDays(days, date = currentDate) {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
@@ -48,20 +51,30 @@ function App() {
         <div className="soundContainer">
           {item.pronounce_audio_us_link !== "Audio not found" && (
             <div
-              onClick={() => playAudio(item.pronounce_audio_us_link)}
+              ref={usSoundRef}
+              onClick={() => {
+                if (usSoundRef.current) {
+                  usSoundRef.current.innerHTML = "Loading...";
+                }
+                playAudio(item.pronounce_audio_us_link);
+              }}
               className="sound"
             >
-              US
-              <SoundOutlined />
+              US 🔊
             </div>
           )}
           {item.pronounce_audio_uk_link !== "Audio not found" && (
             <div
-              onClick={() => playAudio(item.pronounce_audio_uk_link)}
+              ref={ukSoundRef}
+              onClick={() => {
+                if (ukSoundRef.current) {
+                  ukSoundRef.current.innerHTML = "Loading...";
+                }
+                playAudio(item.pronounce_audio_uk_link);
+              }}
               className="sound"
             >
-              UK
-              <SoundOutlined />
+              UK 🔊
             </div>
           )}
         </div>
@@ -91,7 +104,30 @@ function App() {
     setCurrentDate(addDays(delta));
   }
   function playAudio(link) {
-    new Audio(link).play();
+    const audio = new Audio(link);
+    audio.addEventListener(
+      "canplaythrough",
+      () => {
+        setSoundLoading(false);
+        if (usSoundRef.current) {
+          usSoundRef.current.innerHTML = "US 🔈";
+        }
+        if (ukSoundRef.current) {
+          ukSoundRef.current.innerHTML = "UK 🔈";
+        }
+        audio.play();
+      },
+      { once: true }
+    );
+
+    audio.addEventListener(
+      "error",
+      () => {
+        setSoundLoading(false);
+        console.error("Error loading audio");
+      },
+      { once: true }
+    );
   }
   return (
     <div className="dictionary">
@@ -115,24 +151,6 @@ function App() {
         items={words[currentDate.getDate() % PERIOD]}
         defaultActiveKey={["1"]}
       />
-      {words[currentDate.getDate() % PERIOD]?.map((item, index) => (
-        <div key={index}>
-          <span>{index + 1}</span>
-          <h4>{item.title}</h4>
-          <h6>{item.description}</h6>
-          <h6>{item.translate}</h6>
-          {item.pronounce_audio_us_link !== "Audio not found" && (
-            <button onClick={() => playAudio(item.pronounce_audio_us_link)}>
-              us
-            </button>
-          )}
-          {item.pronounce_audio_uk_link !== "Audio not found" && (
-            <button onClick={() => playAudio(item.pronounce_audio_uk_link)}>
-              uk
-            </button>
-          )}
-        </div>
-      ))}
     </div>
   );
 }
