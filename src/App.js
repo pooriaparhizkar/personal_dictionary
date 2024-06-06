@@ -64,8 +64,8 @@ function App() {
         </Button>
       </div>
       <Collapse
-        className="words"
         size="large"
+        className="words"
         items={words[currentDate.getDate() % PERIOD]}
         defaultActiveKey={["1"]}
       />
