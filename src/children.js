@@ -1,24 +1,8 @@
-import React, { useRef, useState } from "react";
-import { SoundOutlined } from "@ant-design/icons";
+import React from "react";
+import { LinkOutlined } from "@ant-design/icons";
 import { Button } from "antd";
 
 function ChildrenCreator({ item }) {
-  const usAudioRef = useRef(null);
-  const ukAudioRef = useRef(null);
-  const [usSoundLoading, setUsSoundLoading] = useState(false);
-  const [ukSoundLoading, setUkSoundLoading] = useState(false);
-  const playAudio = (link) => {
-    new Audio(link)
-      .play()
-      .then(() => {
-        setUsSoundLoading(false);
-        setUkSoundLoading(false);
-      })
-      .catch((error) => {
-        console.error("Audio playback error:", error);
-      });
-  };
-
   return (
     <div>
       <span>{item.role}</span>
@@ -41,41 +25,25 @@ function ChildrenCreator({ item }) {
       )}
       <div className="soundContainer">
         {item.pronounce_audio_us_link !== "Audio not found" && (
-          <Button
-            onClick={() => {
-              usAudioRef.current.play();
-            }}
-            className="sound"
-            loading={usSoundLoading}
-            type="primary"
-          >
-            US <SoundOutlined />
-            <audio
-              ref={usAudioRef}
-              src={item.pronounce_audio_us_link}
-              controls
-            />
-          </Button>
+          <div>
+            US:
+            <audio src={item.pronounce_audio_us_link} controls />
+          </div>
         )}
         {item.pronounce_audio_uk_link !== "Audio not found" && (
-          <Button
-            onClick={() => {
-              setUkSoundLoading(true);
-              playAudio(item.pronounce_audio_uk_link);
-            }}
-            className="sound"
-            loading={ukSoundLoading}
-            type="primary"
-          >
-            UK <SoundOutlined />
-            <audio
-              ref={ukAudioRef}
-              src={item.pronounce_audio_uk_link}
-              controls
-            />
-          </Button>
+          <div>
+            UK:
+            <audio src={item.pronounce_audio_uk_link} controls />
+          </div>
         )}
       </div>
+      <Button
+        onClick={() => window.open(item.url, "_target")}
+        className="link"
+        type="primary"
+      >
+        Cambridge <LinkOutlined />
+      </Button>
     </div>
   );
 }
