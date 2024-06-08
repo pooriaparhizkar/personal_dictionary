@@ -7,7 +7,7 @@ import "./App.scss";
 import ChildrenCreator from "./children";
 
 function App() {
-  const PERIOD = 14;
+  const PERIOD = 20;
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
   function addDays(days, date = currentDate) {
@@ -32,7 +32,7 @@ function App() {
       temp.push({
         key: index,
         label: item.title,
-        children: <ChildrenCreator item={item} />,
+        children: <ChildrenCreator item={item} key={index} />,
         style: panelStyle,
       });
       if ((index + 1) % (wordsData.length / PERIOD) === 0) {

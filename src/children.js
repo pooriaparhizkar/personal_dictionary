@@ -5,9 +5,21 @@ import { Button } from "antd";
 function ChildrenCreator({ item }) {
   return (
     <div>
-      <span>{item.role}</span>
+      <span>
+        {item.role} - {item.pron}
+      </span>
       <h5>{item.description}</h5>
       <h6>{item.translate}</h6>
+      {item.different_meanings && item.different_meanings.length !== 0 && (
+        <div className="other">
+          <label>Other Meanings:</label>
+          {item.different_meanings.map((item, index) => (
+            <span key={index}>
+              {index + 1} - {item}{" "}
+            </span>
+          ))}
+        </div>
+      )}
       {item.example && item.example.length !== 0 && (
         <>
           <span>Examples:</span>

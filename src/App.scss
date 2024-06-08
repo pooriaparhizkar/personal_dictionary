@@ -54,8 +54,18 @@
         > span,
         > h6,
         > .exampleContainer,
+        > .other,
         .soundContainer {
           padding: 0 18px 8px 18px;
+        }
+        .other {
+          display: flex;
+          flex-direction: column;
+          padding-bottom: 8px;
+          border-bottom: solid 1px rgba(255, 255, 255, 0.05);
+          > label {
+            margin-bottom: 8px;
+          }
         }
         .soundContainer {
           margin-top: 12px;
