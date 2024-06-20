@@ -26,17 +26,25 @@ export default function Header() {
           />
           {searchTerm && (
             <div className="result">
-              {wordsData
-                .filter((word) => word.title.includes(searchTerm))
-                .map((word, index) => (
-                  <label
-                    onClick={() => setSelectedSearchResult(word)}
-                    className="item"
-                    key={index}
-                  >
-                    {word.title}
-                  </label>
-                ))}
+              {wordsData.filter((word) =>
+                word.title.toLowerCase().includes(searchTerm.toLowerCase())
+              ).length !== 0 ? (
+                wordsData
+                  .filter((word) =>
+                    word.title.toLowerCase().includes(searchTerm.toLowerCase())
+                  )
+                  .map((word, index) => (
+                    <label
+                      onClick={() => setSelectedSearchResult(word)}
+                      className="item"
+                      key={index}
+                    >
+                      {word.title}
+                    </label>
+                  ))
+              ) : (
+                <p className="no-result">No Result Found</p>
+              )}
             </div>
           )}
         </div>
