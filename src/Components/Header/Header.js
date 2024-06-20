@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { SearchOutlined } from "@ant-design/icons";
-import { Input, Modal } from "antd";
+import { Button, Input, Modal } from "antd";
 import ".//Header.scss";
 import wordsData from "../../words_output.json";
 import WordDetail from "../wordDetail/wordDetail";
@@ -43,7 +43,16 @@ export default function Header() {
                     </label>
                   ))
               ) : (
-                <p className="no-result">No Result Found</p>
+                <p className="no-result">
+                  No Result Found, search in{" "}
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href={`https://dictionary.cambridge.org/spellcheck/english/?q=${searchTerm}`}
+                  >
+                    <Button type="link">Cambrdige</Button>
+                  </a>
+                </p>
               )}
             </div>
           )}
