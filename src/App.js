@@ -4,7 +4,8 @@ import { Button, DatePicker, Collapse } from "antd";
 import dayjs from "dayjs";
 import { LeftOutlined, RightOutlined } from "@ant-design/icons";
 import "./App.scss";
-import ChildrenCreator from "./children";
+import WordDetail from "./Components/wordDetail/wordDetail";
+import Header from "./Components/Header/Header";
 
 function App() {
   const PERIOD = 20;
@@ -20,7 +21,7 @@ function App() {
     marginBottom: 16,
     border: "none",
     boxShadow: "box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px",
-    background: "rgba(255, 255, 255, 0.01)",
+    background: "rgba(255, 255, 255, 0.02)",
     borderRadius: 8,
     overflow: "hidden",
   };
@@ -32,7 +33,7 @@ function App() {
       temp.push({
         key: index,
         label: item.title,
-        children: <ChildrenCreator item={item} key={index} />,
+        children: <WordDetail item={item} key={index} />,
         style: panelStyle,
       });
       if ((index + 1) % (wordsData.length / PERIOD) === 0) {
@@ -49,7 +50,7 @@ function App() {
 
   return (
     <div className="dictionary">
-      <h1>Pooria's Dictionary</h1>
+      <Header />
       <div className="controller">
         <Button type={"primary"} onClick={() => changeDay(-1)}>
           <LeftOutlined />

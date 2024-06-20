@@ -1,10 +1,11 @@
 import React from "react";
 import { LinkOutlined } from "@ant-design/icons";
 import { Button } from "antd";
+import "./wordDetail.scss";
 
-function ChildrenCreator({ item }) {
+function WordDetail({ item }) {
   return (
-    <div>
+    <div className="word-detail">
       <span>
         {item.role} - {item.pron}
       </span>
@@ -49,6 +50,7 @@ function ChildrenCreator({ item }) {
           </div>
         )}
       </div>
+      <span className="spacer" />
       <Button
         onClick={() => window.open(item.url, "_target")}
         className="link"
@@ -60,4 +62,4 @@ function ChildrenCreator({ item }) {
   );
 }
 
-export default ChildrenCreator;
+export default WordDetail;

@@ -1,0 +1,58 @@
+.word-detail {
+  color: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  gap: 8px;
+  > h5 {
+    font-size: 18px;
+  }
+  > h6 {
+    text-align: right;
+    font-size: 18px;
+  }
+  > h5,
+  > span,
+  > h6,
+  > .exampleContainer,
+  > .other,
+  .soundContainer {
+    padding: 0 18px 8px 18px;
+  }
+  .other {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 8px;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.05);
+    > label {
+      margin-bottom: 8px;
+    }
+  }
+  .soundContainer {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    align-items: flex-start;
+    gap: 16px;
+
+    > div {
+      display: flex;
+      align-items: center;
+      audio {
+        margin-left: 8px;
+        height: 28px;
+      }
+    }
+  }
+  .spacer {
+    flex: 1;
+  }
+  .link {
+    margin-top: 16px;
+    width: 100%;
+    height: 42px;
+    border-radius: 0;
+  }
+}
