@@ -1,0 +1,19 @@
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+	<symbol id="icon-starts-with" viewBox="0 0 1080 1080" xml:space="preserve">
+		<g transform="matrix(2.45 0 0 2.45 540 540)"  >
+			<g style="" vector-effect="non-scaling-stroke"   >
+				<g transform="matrix(1 0 0 1 0 -42.44)"  >
+					<path fill="currentColor" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill-rule: evenodd; opacity: 0.97;" vector-effect="non-scaling-stroke"  transform=" translate(-255.5, -213)" d="M 236.5 84.5 C 249.184 84.1676 261.851 84.5009 274.5 85.5 C 308.431 170.632 341.765 255.966 374.5 341.5 C 360.484 341.833 346.484 341.499 332.5 340.5 C 325.626 322.542 318.959 304.542 312.5 286.5 C 274.494 286.167 236.494 286.5 198.5 287.5 C 191.833 305.167 185.167 322.833 178.5 340.5 C 164.516 341.499 150.516 341.833 136.5 341.5 C 169.438 255.688 202.771 170.021 236.5 84.5 Z M 254.5 136.5 C 255.497 136.47 256.164 136.97 256.5 138 C 270.265 174.461 283.932 210.961 297.5 247.5 C 269.508 248.5 241.508 248.833 213.5 248.5 C 227.167 211.167 240.833 173.833 254.5 136.5 Z" stroke-linecap="round" />
+				</g>
+				<g transform="matrix(1 0 0 1 0 117.56)"  >
+					<path fill="currentColor" vector-effect="non-scaling-stroke"  transform=" translate(-255.5, -373)" d="M 41.5 319.5 C 56.1667 319.5 70.8333 319.5 85.5 319.5 C 85.5 340.833 85.5 362.167 85.5 383.5 C 213.5 383.5 341.5 383.5 469.5 383.5 C 469.5 397.833 469.5 412.167 469.5 426.5 C 326.833 426.5 184.167 426.5 41.5 426.5 C 41.5 390.833 41.5 355.167 41.5 319.5 Z" stroke-linecap="round" />
+				</g>
+			</g>
+		</g>
+	</symbol>
+
+</svg>

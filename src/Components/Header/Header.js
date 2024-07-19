@@ -1,13 +1,26 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { SearchOutlined } from "@ant-design/icons";
 import { Button, Input, Modal } from "antd";
-import ".//Header.scss";
+import "./Header.scss";
 import wordsData from "../../words_output.json";
 import WordDetail from "../wordDetail/wordDetail";
+import Icon from "../../Components/Icon/icon";
 
 export default function Header() {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedSearchResult, setSelectedSearchResult] = useState();
+  const [isStartsWith, setIsStartsWith] = useState(false);
+  const [searchResult, setSearchResult] = useState([]);
+
+  useEffect(() => {
+    setSearchResult(
+      wordsData.filter((word) =>
+        isStartsWith
+          ? word.title.toLowerCase().startsWith(searchTerm.toLowerCase())
+          : word.title.toLowerCase().includes(searchTerm.toLowerCase())
+      )
+    );
+  }, [isStartsWith, searchTerm]);
   return (
     <>
       <div className="header">
@@ -15,33 +28,35 @@ export default function Header() {
         <h4>Pooria's Edition</h4>
         <div className="search">
           <Input
+            allowClear
             className={searchTerm ? "active" : ""}
             onChange={(e) => {
-              console.log(e.target.value);
               setSearchTerm(e.target.value);
             }}
             size="large"
             placeholder="Enter your word"
             prefix={<SearchOutlined />}
+            suffix={
+              <div
+                onClick={() => setIsStartsWith(!isStartsWith)}
+                className={`suffix-icon ${isStartsWith ? "active" : ""}`}
+              >
+                <Icon name="starts-with" size={16} />
+              </div>
+            }
           />
           {searchTerm && (
             <div className="result">
-              {wordsData.filter((word) =>
-                word.title.toLowerCase().includes(searchTerm.toLowerCase())
-              ).length !== 0 ? (
-                wordsData
-                  .filter((word) =>
-                    word.title.toLowerCase().includes(searchTerm.toLowerCase())
-                  )
-                  .map((word, index) => (
-                    <label
-                      onClick={() => setSelectedSearchResult(word)}
-                      className="item"
-                      key={index}
-                    >
-                      {word.title}
-                    </label>
-                  ))
+              {searchResult.length !== 0 ? (
+                searchResult.map((word, index) => (
+                  <label
+                    onClick={() => setSelectedSearchResult(word)}
+                    className="item"
+                    key={index}
+                  >
+                    {word.title}
+                  </label>
+                ))
               ) : (
                 <p className="no-result">
                   No Result Found, search in{" "}
