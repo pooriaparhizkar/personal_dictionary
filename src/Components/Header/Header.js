@@ -28,7 +28,6 @@ export default function Header() {
         <h4>Pooria's Edition</h4>
         <div className="search">
           <Input
-            allowClear
             className={searchTerm ? "active" : ""}
             onChange={(e) => {
               setSearchTerm(e.target.value);
