@@ -13,11 +13,16 @@ export default function Header() {
   const [searchResult, setSearchResult] = useState([]);
 
   useEffect(() => {
+    const isEnglish = /^[a-zA-Z]+$/.test(searchTerm);
     setSearchResult(
       wordsData.filter((word) =>
         isStartsWith
-          ? word.title.toLowerCase().startsWith(searchTerm.toLowerCase())
-          : word.title.toLowerCase().includes(searchTerm.toLowerCase())
+          ? (isEnglish ? word.title : word.translate)
+              .toLowerCase()
+              .startsWith(searchTerm.toLowerCase())
+          : (isEnglish ? word.title : word.translate)
+              .toLowerCase()
+              .includes(searchTerm.toLowerCase())
       )
     );
   }, [isStartsWith, searchTerm]);
