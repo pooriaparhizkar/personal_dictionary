@@ -1,16 +1,18 @@
 import wordsData from "./words_output.json";
 import { useEffect, useState } from "react";
-import { Button, DatePicker, Collapse } from "antd";
+import { Button, DatePicker, Collapse, Modal } from "antd";
 import dayjs from "dayjs";
 import { LeftOutlined, RightOutlined } from "@ant-design/icons";
 import "./App.scss";
 import WordDetail from "./Components/wordDetail/wordDetail";
 import Header from "./Components/Header/Header";
+import ExamContent from "./Components/exam/exam";
 
 function App() {
   const PERIOD = 20;
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
+  const [isExamOpen, setIsExamOpen] = useState(false);
   function addDays(days, date = currentDate) {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
@@ -32,11 +34,12 @@ function App() {
     wordsData.map((item, index) => {
       temp.push({
         key: index,
-        label: item.title,
+        label: `${item.title} ${item.isCambridge ? " ✓" : ""}`,
         children: <WordDetail item={item} key={index} />,
         style: panelStyle,
+        item: item,
       });
-      if ((index + 1) % (wordsData.length / PERIOD) === 0) {
+      if ((index + 1) % parseInt(wordsData.length / PERIOD) === 0) {
         wordsList.push(temp);
         temp = [];
       }
@@ -64,6 +67,25 @@ function App() {
           <RightOutlined />
         </Button>
       </div>
+      {/* <Button className="exam" onClick={() => setIsExamOpen(true)}>
+        Take an Exam
+      </Button> */}
+
+      <Modal
+        footer={null}
+        closable
+        destroyOnClose
+        open={!!isExamOpen}
+        title="Exam"
+        focusTriggerAfterClose={() => setIsExamOpen(undefined)}
+        onCancel={() => setIsExamOpen(undefined)}
+      >
+        <ExamContent
+          wordsList={words[currentDate.getDate() % PERIOD]?.map(
+            (item) => item.item
+          )}
+        />
+      </Modal>
       <Collapse
         size="large"
         className="words"

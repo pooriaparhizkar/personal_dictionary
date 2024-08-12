@@ -1,0 +1,16 @@
+.exam-content {
+  h6 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .options {
+    &.false {
+      background-color: red !important;
+    }
+    &.true {
+      background-color: green !important;
+    }
+  }
+}
