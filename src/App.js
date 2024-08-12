@@ -9,7 +9,7 @@ import Header from "./Components/Header/Header";
 import ExamContent from "./Components/exam/exam";
 
 function App() {
-  const PERIOD = 20;
+  const PERIOD = 30;
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
   const [isExamOpen, setIsExamOpen] = useState(false);
@@ -39,7 +39,7 @@ function App() {
         style: panelStyle,
         item: item,
       });
-      if ((index + 1) % parseInt(wordsData.length / PERIOD) === 0) {
+      if ((index + 1) % PERIOD === 0) {
         wordsList.push(temp);
         temp = [];
       }
