@@ -1,6 +1,6 @@
 import wordsData from "./words_output.json";
 import { useEffect, useState } from "react";
-import { Button, DatePicker, Collapse, Modal } from "antd";
+import { Button, DatePicker, Collapse, Modal, Checkbox } from "antd";
 import dayjs from "dayjs";
 import { LeftOutlined, RightOutlined } from "@ant-design/icons";
 import "./App.scss";
@@ -13,6 +13,7 @@ function App() {
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
   const [isExamOpen, setIsExamOpen] = useState(false);
+  const [isCambridge, setIsCambridge] = useState(false);
   function addDays(days, date = currentDate) {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
@@ -32,6 +33,7 @@ function App() {
     const wordsList = [];
     let temp = [];
     wordsData.map((item, index) => {
+      if (isCambridge && !item.isCambridge) return false;
       temp.push({
         key: index,
         label: `${item.title} ${item.isCambridge ? " ✓" : ""}`,
@@ -39,13 +41,13 @@ function App() {
         style: panelStyle,
         item: item,
       });
-      if ((index + 1) % PERIOD === 0) {
+      if (temp.length === PERIOD) {
         wordsList.push(temp);
         temp = [];
       }
     });
     setWords(wordsList);
-  }, []);
+  }, [isCambridge]);
 
   function changeDay(delta) {
     setCurrentDate(addDays(delta));
@@ -86,10 +88,17 @@ function App() {
           )}
         />
       </Modal>
+      <div className="filter-container">
+        <label>isCambridge</label>
+        <Checkbox
+          checked={isCambridge}
+          onChange={(e) => setIsCambridge(e.target.checked)}
+        />
+      </div>
       <Collapse
         size="large"
         className="words"
-        items={words[currentDate.getDate() % PERIOD]}
+        items={words[(currentDate.getDate() % PERIOD) % words.length]}
         defaultActiveKey={["1"]}
       />
     </div>

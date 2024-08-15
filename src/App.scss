@@ -16,8 +16,16 @@
     margin: 16px auto;
     display: flex;
   }
+  .filter-container {
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+    gap: 8px;
+  }
   .words {
-    margin-top: 24px;
+    margin-top: 16px;
     .ant-collapse-header {
       color: #ffffff;
       &-text {
