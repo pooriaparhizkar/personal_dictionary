@@ -9,11 +9,13 @@ import Header from "./Components/Header/Header";
 import ExamContent from "./Components/exam/exam";
 
 function App() {
-  const PERIOD = 30;
+  const PERIOD = 30; // Number of days before the cycle repeats
   const [words, setWords] = useState([]);
   const [currentDate, setCurrentDate] = useState(new Date());
   const [isExamOpen, setIsExamOpen] = useState(false);
   const [isCambridge, setIsCambridge] = useState(false);
+  const startDate = new Date(2024, 0, 1); // Set a start date (e.g., Jan 1, 2024)
+
   function addDays(days, date = currentDate) {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
@@ -32,8 +34,8 @@ function App() {
   useEffect(() => {
     const wordsList = [];
     let temp = [];
-    wordsData.map((item, index) => {
-      if (isCambridge && !item.isCambridge) return false;
+    wordsData.forEach((item, index) => {
+      if (isCambridge && !item.isCambridge) return;
       temp.push({
         key: index,
         label: `${item.title} ${item.isCambridge ? " ✓" : ""}`,
@@ -46,12 +48,23 @@ function App() {
         temp = [];
       }
     });
+    if (temp.length) {
+      wordsList.push(temp);
+    }
     setWords(wordsList);
   }, [isCambridge]);
 
   function changeDay(delta) {
     setCurrentDate(addDays(delta));
   }
+
+  // Calculate the index based on the number of days since the start date
+  const getWordIndex = () => {
+    const daysPassed = Math.floor(
+      (currentDate - startDate) / (1000 * 60 * 60 * 24)
+    );
+    return daysPassed % words.length;
+  };
 
   return (
     <div className="dictionary">
@@ -83,9 +96,7 @@ function App() {
         onCancel={() => setIsExamOpen(undefined)}
       >
         <ExamContent
-          wordsList={words[currentDate.getDate() % PERIOD]?.map(
-            (item) => item.item
-          )}
+          wordsList={words[getWordIndex()]?.map((item) => item.item)}
         />
       </Modal>
       <div className="filter-container">
@@ -98,7 +109,7 @@ function App() {
       <Collapse
         size="large"
         className="words"
-        items={words[(currentDate.getDate() % PERIOD) % words.length]}
+        items={words[getWordIndex()]}
         defaultActiveKey={["1"]}
       />
     </div>
