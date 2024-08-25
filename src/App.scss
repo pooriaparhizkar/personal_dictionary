@@ -23,6 +23,9 @@
     width: 100%;
     justify-content: flex-end;
     gap: 8px;
+    span {
+      flex: 1;
+    }
   }
   .words {
     margin-top: 16px;

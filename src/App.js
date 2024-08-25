@@ -2,7 +2,7 @@ import wordsData from "./words_output.json";
 import { useEffect, useState } from "react";
 import { Button, DatePicker, Collapse, Modal, Checkbox } from "antd";
 import dayjs from "dayjs";
-import { LeftOutlined, RightOutlined } from "@ant-design/icons";
+import { LeftOutlined, RightOutlined, ReloadOutlined } from "@ant-design/icons";
 import "./App.scss";
 import WordDetail from "./Components/wordDetail/wordDetail";
 import Header from "./Components/Header/Header";
@@ -66,6 +66,29 @@ function App() {
     return daysPassed % words.length;
   };
 
+  const handleHardReload = () => {
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.getRegistrations().then((registrations) => {
+        registrations.forEach((registration) => {
+          registration.unregister();
+        });
+      });
+    }
+
+    // Clear browser cache and reload the page
+    caches
+      .keys()
+      .then((names) => {
+        for (let name of names) {
+          caches.delete(name);
+        }
+      })
+      .then(() => {
+        // Reload the page after clearing cache and unregistering service workers
+        window.location.reload(true);
+      });
+  };
+
   return (
     <div className="dictionary">
       <Header />
@@ -100,6 +123,10 @@ function App() {
         />
       </Modal>
       <div className="filter-container">
+        <Button size="small" type="primary" danger onClick={handleHardReload}>
+          <ReloadOutlined />
+        </Button>
+        <span />
         <label>isCambridge</label>
         <Checkbox
           checked={isCambridge}
