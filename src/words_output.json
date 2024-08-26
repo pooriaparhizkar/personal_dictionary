@@ -190,6 +190,25 @@
     "pron": "/ˈvɪk.tɪm/"
   },
   {
+    "title": "Hardship",
+    "url": "https://dictionary.cambridge.org/dictionary/english/hardship",
+    "role": "noun",
+    "example": [
+      "economic hardship",
+      "[ U ] The 1930s were a time of high unemployment and economic hardship.",
+      "financial/economic hardship The price of cooking gas increased five-fold, worsening the economic hardship.",
+      "extreme/real/severe hardship",
+      "The Commission does not believe that the proposed rule change will pose an undue hardship on venture capital firms."
+    ],
+    "description": "(something that causes) difficult or unpleasant conditions of life, or an example of this:",
+    "translate": "سختی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhap/ukhapha029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/har/hards/hardship.mp3",
+    "different_meanings": [],
+    "pron": "/ˈhɑːd.ʃɪp/",
+    "isCambridge": true
+  },
+  {
     "title": "Crates",
     "url": "https://dictionary.cambridge.org/dictionary/english/Crates",
     "role": "noun",
@@ -704,6 +723,24 @@
     "pron": "/brɔːd/"
   },
   {
+    "title": "Maternity",
+    "url": "https://dictionary.cambridge.org/dictionary/english/maternity",
+    "role": "noun",
+    "example": [
+      "maternity clothes",
+      "Anita passed along some used maternity clothes (= clothes worn when she was pregnant).",
+      "She asked about the company’s maternity benefits.",
+      "issues of reproduction, maternity, and women’s health"
+    ],
+    "description": "the state of being a mother",
+    "translate": "زایمان",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmat/ukmatch015.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72934.mp3",
+    "different_meanings": [],
+    "pron": "/məˈtɜː.nə.ti/",
+    "isCambridge": true
+  },
+  {
     "title": "Persist",
     "url": "https://dictionary.cambridge.org/dictionary/english/Persist",
     "role": "verb",
@@ -860,6 +897,29 @@
       "noun - GOING DOWN"
     ],
     "pron": "/dɪˈklaɪn/"
+  },
+  {
+    "title": "Clumsy",
+    "url": "https://dictionary.cambridge.org/dictionary/english/clumsy",
+    "role": "adjective",
+    "example": [
+      "That's the third glass you've smashed this week - you're so clumsy!",
+      "The first mobile phones were heavy and clumsy to use, but nowadays they are much easier to handle.",
+      "He gave a clumsy bow.",
+      "Her clumsy handling of the situation only made it worse.",
+      "My attempts to apologize were very clumsy.",
+      "Some of the wording of the statement was a bit clumsy.",
+      "I’m so clumsy – I keep dropping things.",
+      "He subsequently wrote a letter to the magazine in an admittedly clumsy try at explaining his viewpoint.",
+      "She would be at the mercy of a clumsy bureaucracy."
+    ],
+    "description": "A clumsy person often has accidents because they do not behave in a careful, controlled way:",
+    "translate": "دست و پا",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukclo/ukclosu026.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/clu/clums/clumsy.mp3",
+    "different_meanings": [],
+    "pron": "/ˈklʌm.zi/",
+    "isCambridge": true
   },
   {
     "title": "Inhibit",
@@ -1192,6 +1252,39 @@
       "verb - FALL OFF"
     ],
     "pron": "/ʃed/",
+    "isCambridge": true
+  },
+  {
+    "title": "Agenda",
+    "url": "https://dictionary.cambridge.org/dictionary/english/agenda",
+    "role": "noun",
+    "example": [
+      "There were several important items on the agenda.",
+      "The question of security is high on the agenda for this afternoon's meeting.",
+      "Women's rights have been put back on the agenda (= are being discussed publicly again).",
+      "The subject of safety needs to be placed high on/at the top of the agenda (= must be discussed because it is very important).",
+      "Education was placed firmly on the political agenda in the prime minister's weekend speech.",
+      "She felt that some of the group had an agenda.",
+      "There's no hidden agenda - I'm just trying to help.",
+      "Among the items on the agenda were next year’s budget and raising the membership dues.",
+      "Finding a job is at the top of my agenda.",
+      "She has a political agenda.",
+      "Agendas change with the times, as every CEO knows.",
+      "economic/environmental/political agenda The Senator's environmental agenda is negative for traditional energy producers, but positive for alternative energy producers.",
+      "be at the top of/be high on the agenda The plight of poorer countries is high on the WTO's agenda.",
+      "Like any businessman he has an agenda, and that should not be forgotten.",
+      "set/lay out/establish an agenda Company directors are attempting to lay out an agenda for reducing future financial risks.",
+      "I strongly suspect that the author has a hidden agenda.",
+      "If you don't have a structured agenda, people will bring up side issues that aren't relevant to solving the problem.",
+      "The next item on the agenda is a special report from the Advisory Committee.",
+      "be at the top of/be high on the agenda At a meeting of finance ministers in St Petersburg, security of energy supply was at the top of the agenda."
+    ],
+    "description": "a list of matters to be discussed at a meeting:",
+    "translate": "دستور کار",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukage/ukage__009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70118.mp3",
+    "different_meanings": [],
+    "pron": "/əˈdʒen.də/",
     "isCambridge": true
   },
   {
@@ -1606,6 +1699,23 @@
     "pron": "/ˈnes.tɪŋ/"
   },
   {
+    "title": "Rod",
+    "url": "https://dictionary.cambridge.org/dictionary/english/rod",
+    "role": "noun",
+    "example": [
+      "He was given a fishing rod for his birthday.",
+      "The concrete is strengthened with steel rods.",
+      "a fishing/curtain rod"
+    ],
+    "description": "a long, thin pole made of wood or metal:",
+    "translate": "میله",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrob/ukrobot016.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rod/rod__/rod.mp3",
+    "different_meanings": ["noun - IN EYE", "noun - POLE"],
+    "pron": "/rɒd/",
+    "isCambridge": true
+  },
+  {
     "title": "Ostensibly",
     "url": "https://dictionary.cambridge.org/dictionary/english/ostensibly",
     "role": "adverb",
@@ -1619,6 +1729,28 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usl/usl30/usl30252.mp3",
     "different_meanings": [],
     "pron": "/ɒsˈten.sə.bli/",
+    "isCambridge": true
+  },
+  {
+    "title": "Parcel",
+    "url": "https://dictionary.cambridge.org/dictionary/english/parcel",
+    "role": "noun",
+    "example": [
+      "a food parcel",
+      "The parcel was wrapped in plain brown paper.",
+      "a 60-acre parcel",
+      "a food parcel",
+      "a 50-acre parcel on Lake Mead",
+      "There were several parcels waiting for her in the post room.",
+      "The parcel of shares is worth between €2,000 and €3,000.",
+      "A 100-acre parcel in Texas was one of five sites selected for development."
+    ],
+    "description": "an object or collection of objects wrapped in paper, especially so that it can be sent by post:",
+    "translate": "بسته",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpar/ukparas010.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/par/parce/parcel.mp3",
+    "different_meanings": ["noun - LAND", "noun - TO SEND"],
+    "pron": "/ˈpɑː.səl/",
     "isCambridge": true
   },
   {
@@ -2201,6 +2333,21 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cou/counc/council.mp3",
     "different_meanings": [],
     "pron": "/ˈkaʊn.səl/",
+    "isCambridge": true
+  },
+  {
+    "title": "Hinge",
+    "url": "https://dictionary.cambridge.org/dictionary/english/hinge",
+    "role": "noun",
+    "example": [
+      "We had to take the front door off its hinges to get our new sofa into the house."
+    ],
+    "description": "a piece of metal that fastens the edge of a door, window, lid, etc. to something else and allows it to open or close:",
+    "translate": "لولا",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhim/ukhimal013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hin/hinge/hinge.mp3",
+    "different_meanings": [],
+    "pron": "/hɪndʒ/",
     "isCambridge": true
   },
   {
@@ -2825,6 +2972,28 @@
     "isCambridge": true
   },
   {
+    "title": "Heir",
+    "url": "https://dictionary.cambridge.org/dictionary/english/heir",
+    "role": "noun",
+    "example": [
+      "heir to The guest of honour was the Romanov heir to the throne of all Russia.",
+      "son and heir Despite having a large family, they still had no son and heir.",
+      "heir to The French finance minister is heir to a tradition of central control that goes back to Louis XIV.",
+      "My cousin Robert is the only heir to my uncle’s fortune.",
+      "Court documents showed that each heir was entitled to land and shares of stock in the businesses.",
+      "heir to sth When her father died, she became the sole heir to his £40,000 estate.",
+      "heir of sth The heirs of the company's founder control about 39% of the business.",
+      "heir to sb He was a potential heir to retiring CEO Jack Welch."
+    ],
+    "description": "a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies:",
+    "translate": "وارث",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukaha/ukaha__020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/air/air__/air.mp3",
+    "different_meanings": [],
+    "pron": "/eər/",
+    "isCambridge": true
+  },
+  {
     "title": "Fertilise",
     "url": "https://dictionary.cambridge.org/dictionary/english/fertilise",
     "role": "verb",
@@ -3320,6 +3489,21 @@
     "pron": "/ˌpɜː.spərˈeɪ.ʃən/"
   },
   {
+    "title": "Agronomist",
+    "url": "https://dictionary.cambridge.org/dictionary/english/agronomist",
+    "role": "noun",
+    "example": [
+      "Agronomists were working on new ways to create healthier food while managing the environmental impact of agriculture."
+    ],
+    "description": "a scientist who works in agronomy (= the science of farming):",
+    "translate": "زراعت شناس",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/c/cbe/cbedu/cbeduk00231.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cbe/cbedu/cbedus00231.mp3",
+    "different_meanings": [],
+    "pron": "/əˈɡrɒnəmɪst/",
+    "isCambridge": true
+  },
+  {
     "title": "Rite",
     "url": "https://dictionary.cambridge.org/dictionary/english/rite",
     "role": "noun",
@@ -3468,6 +3652,23 @@
     "isCambridge": true
   },
   {
+    "title": "Foolproof",
+    "url": "https://dictionary.cambridge.org/dictionary/english/foolproof",
+    "role": "adjective",
+    "example": [
+      "I don't believe there's any such thing as a foolproof system for making money.",
+      "This new recipe is supposed to be foolproof.",
+      "It’s not a foolproof system and it never will be."
+    ],
+    "description": "(of a plan or machine) so simple and easy to understand that it is unable to go wrong or be used wrongly:",
+    "translate": "عایق",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfol/ukfolks024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/f/foo/foolp/foolproof.mp3",
+    "different_meanings": [],
+    "pron": "/ˈfuːl.pruːf/",
+    "isCambridge": true
+  },
+  {
     "title": "Supersede",
     "url": "https://dictionary.cambridge.org/dictionary/english/supersede",
     "role": "verb",
@@ -3487,6 +3688,24 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sup/super/supersede.mp3",
     "different_meanings": [],
     "pron": "/ˌsuː.pəˈsiːd/",
+    "isCambridge": true
+  },
+  {
+    "title": "Readily",
+    "url": "https://dictionary.cambridge.org/dictionary/english/readily",
+    "role": "adverb",
+    "example": [
+      "He readily agreed to help.",
+      "Larger sizes are readily available.",
+      "Cory readily admits he was hired because of his contacts.",
+      "The complete collection is now readily available to researchers through the Internet."
+    ],
+    "description": "quickly, immediately, willingly, or without any problem:",
+    "translate": "به راحتی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrea/ukreadi001.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rea/readi/readily.mp3",
+    "different_meanings": ["adverb - WILLINGLY", "adverb - PREPARED"],
+    "pron": "/ˈred.əl.i/",
     "isCambridge": true
   },
   {
@@ -3606,6 +3825,25 @@
       "verb - REMOVE LIQUID"
     ],
     "pron": "/dreɪn/"
+  },
+  {
+    "title": "Cope",
+    "url": "https://dictionary.cambridge.org/dictionary/english/cope",
+    "role": "verb",
+    "example": [
+      "It's only been a year since he died - how's she coping (= how is she)?",
+      "He had so much pressure on him in his job that eventually he just couldn't cope.",
+      "cope with It must be really hard to cope with four children under 5.",
+      "Inside homes, many residents coped with broken glass and collapsed walls and chimneys.",
+      "Victims cope with feelings of anxiety, pain, anger, and fear."
+    ],
+    "description": "to deal successfully with a difficult situation:",
+    "translate": "مقابله کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcop/ukcop__002.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cop/cope_/cope.mp3",
+    "different_meanings": [],
+    "pron": "/kəʊp/",
+    "isCambridge": true
   },
   {
     "title": "Proportion",
@@ -3976,6 +4214,31 @@
     "isCambridge": true
   },
   {
+    "title": "Virtue",
+    "url": "https://dictionary.cambridge.org/dictionary/english/virtue",
+    "role": "noun",
+    "example": [
+      "Patience is a virtue.",
+      "virtue in Would there be any virtue in taking an earlier train?",
+      "The actress has appeared in many TV ads extolling (= praising) the virtues of hair products.",
+      "She succeeded by virtue of her tenacity rather than her talent.",
+      "[ C ] Patience is a virtue.",
+      "[ C ] Caution is a useful virtue."
+    ],
+    "description": "a good moral quality in a person, or the general quality of being morally good:",
+    "translate": "فضیلت",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukv/ukvir/ukvirgi010.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/v/vir/virtu/virtue.mp3",
+    "different_meanings": [
+      "noun - GOODNESS",
+      "noun - ADVANTAGE",
+      "noun - GOOD MORALS",
+      "noun - BECAUSE OF"
+    ],
+    "pron": "/ˈvɜː.tʃuː/",
+    "isCambridge": true
+  },
+  {
     "title": "Clustered",
     "url": "https://dictionary.cambridge.org/dictionary/english/clustered",
     "role": "verb",
@@ -4237,31 +4500,6 @@
     "isCambridge": true
   },
   {
-    "title": "Virtue",
-    "url": "https://dictionary.cambridge.org/dictionary/english/virtue",
-    "role": "noun",
-    "example": [
-      "Patience is a virtue.",
-      "virtue in Would there be any virtue in taking an earlier train?",
-      "The actress has appeared in many TV ads extolling (= praising) the virtues of hair products.",
-      "She succeeded by virtue of her tenacity rather than her talent.",
-      "[ C ] Patience is a virtue.",
-      "[ C ] Caution is a useful virtue."
-    ],
-    "description": "a good moral quality in a person, or the general quality of being morally good:",
-    "translate": "فضیلت",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukv/ukvir/ukvirgi010.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/v/vir/virtu/virtue.mp3",
-    "different_meanings": [
-      "noun - GOOD MORALS",
-      "noun - GOODNESS",
-      "noun - BECAUSE OF",
-      "noun - ADVANTAGE"
-    ],
-    "pron": "/ˈvɜː.tʃuː/",
-    "isCambridge": true
-  },
-  {
     "title": "Impose",
     "url": "https://dictionary.cambridge.org/dictionary/english/Impose",
     "role": "verb",
@@ -4508,6 +4746,30 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/i/inc/incid/incidentally.mp3",
     "different_meanings": [],
     "pron": "/ˌɪn.sɪˈden.təl.i/",
+    "isCambridge": true
+  },
+  {
+    "title": "Creature",
+    "url": "https://dictionary.cambridge.org/dictionary/english/creature",
+    "role": "noun",
+    "example": [
+      "Rainforests are filled with amazing creatures.",
+      "living creature Don't all living creatures have certain rights?",
+      "Blue whales are the largest creatures ever to have lived.",
+      "The unicorn is a mythical creature.",
+      "The film was about creatures from outer space.",
+      "The duck-billed platypus is a truly bizarre creature.",
+      "poor creature These poor creatures were starving and dressed in rags.",
+      "He's an odd creature in many ways.",
+      "He seemed to think that women were mysterious creatures.",
+      "It seems clear to me that people are creatures of emotion."
+    ],
+    "description": "any large or small living thing that can move independently:",
+    "translate": "موجود",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcre/ukcream012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cre/creat/creature.mp3",
+    "different_meanings": [],
+    "pron": "/ˈkriː.tʃər/",
     "isCambridge": true
   },
   {
@@ -4861,6 +5123,22 @@
     "pron": "/ˈkɒm.pən.seɪt/"
   },
   {
+    "title": "Err",
+    "url": "https://dictionary.cambridge.org/dictionary/english/err",
+    "role": "verb",
+    "example": [
+      "He erred in agreeing to her appointment to the position.",
+      "It’s preferable to err on the side of caution (= to be too careful) rather than risk disaster."
+    ],
+    "description": "to make a mistake or to do something wrong:",
+    "translate": "اشتباه کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukequ/ukequip012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71629.mp3",
+    "different_meanings": [],
+    "pron": "/ɜːr/",
+    "isCambridge": true
+  },
+  {
     "title": "Seize",
     "url": "https://dictionary.cambridge.org/dictionary/english/seize",
     "role": "verb",
@@ -4989,6 +5267,33 @@
       "noun - JUDGING"
     ],
     "pron": "/ɡeɪdʒ/",
+    "isCambridge": true
+  },
+  {
+    "title": "Canteen",
+    "url": "https://dictionary.cambridge.org/dictionary/english/canteen",
+    "role": "noun",
+    "example": [
+      "There's a staff canteen and a separate restaurant for senior management.",
+      "I usually have my lunch in the canteen on campus.",
+      "I was in the canteen having a beer with some of my buddies.",
+      "The picture shows her serving doughnuts to soldiers at a USO canteen.",
+      "You can get a sandwich from the hospital canteen.",
+      "Prisoners could buy chocolate bars and cigarettes at the canteen.",
+      "canteen of cutlery We're giving them a canteen of cutlery as a wedding present.",
+      "Benefits include free car parking and a subsidized staff canteen."
+    ],
+    "description": "a place in a factory, office, etc. where food and meals are sold and can be eaten, often at a lower than usual price:",
+    "translate": "غذاخوری",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcan/ukcant_006.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/can/cante/canteen.mp3",
+    "different_meanings": [
+      "noun - CONTAINER",
+      "noun - RESTAURANT",
+      "noun - TO BUY FOOD",
+      "noun - KITCHEN EQUIPMENT"
+    ],
+    "pron": "/kænˈtiːn/",
     "isCambridge": true
   },
   {
@@ -5168,6 +5473,35 @@
     "pron": "/ɪˈvɒlv/"
   },
   {
+    "title": "Exploit",
+    "url": "https://dictionary.cambridge.org/dictionary/english/exploit",
+    "role": "verb",
+    "example": [
+      "exploit your resources We need to make sure that we exploit our resources as fully as possible.",
+      "Laws exist to stop companies exploiting their employees.",
+      "She was telling me about her exploits while travelling around Africa.",
+      "daredevil exploits",
+      "He is not content to limit himself to his exploits on the basketball court.",
+      "The two companies joined forces to exploit the potential of the Internet.",
+      "Factories here are coming under criticism for exploiting workers.",
+      "exploit resources/technology/information We need to make sure that we exploit our resources as fully as possible.",
+      "exploit opportunities/potential",
+      "This collection of valuable sound recordings has never been commercially exploited.",
+      "Laws exist to stop companies exploiting their employees.",
+      "These unfortunate people have been ruthlessly exploited.",
+      "exploit a loophole/weakness/vulnerability These are responsible employers who are not seeking to exploit loopholes in the legislation.",
+      "People exploit the system by lodging multiple appeals.",
+      "The coal mine is no longer commercially exploitable."
+    ],
+    "description": "to use something in a way that helps you:",
+    "translate": "سوق دادن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukexp/ukexper030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71715.mp3",
+    "different_meanings": ["verb - USE WELL", "verb - USE UNFAIRLY"],
+    "pron": "/ɪkˈsplɔɪt/",
+    "isCambridge": true
+  },
+  {
     "title": "Terracotta",
     "url": "https://dictionary.cambridge.org/dictionary/english/terracotta",
     "role": "noun",
@@ -5326,6 +5660,27 @@
     "isCambridge": true
   },
   {
+    "title": "Precise",
+    "url": "https://dictionary.cambridge.org/dictionary/english/precise",
+    "role": "adjective",
+    "example": [
+      "The bunker's precise location is a closely guarded secret.",
+      "He caught me at the precise moment that I fainted.",
+      "There was a good turnout for the meeting - twelve of us to be precise.",
+      "Years of doing meticulous research had made her very precise in her working methods.",
+      "The precise recipe is a closely guarded secret.",
+      "Years of doing this research had made her very precise in her working methods.",
+      "There was a good turnout for the meeting – twelve of us, to be precise."
+    ],
+    "description": "exact and accurate:",
+    "translate": "دقیق",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpre/ukpreci003.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75878.mp3",
+    "different_meanings": ["adjective - CAREFUL", "adjective - EXACT"],
+    "pron": "/prɪˈsaɪs/",
+    "isCambridge": true
+  },
+  {
     "title": "Phenomenon",
     "url": "https://dictionary.cambridge.org/dictionary/english/phenomenon",
     "role": "noun",
@@ -5464,6 +5819,41 @@
       "noun - MONEY FOR TRAVEL"
     ],
     "pron": "/ˈmaɪ.lɪdʒ/",
+    "isCambridge": true
+  },
+  {
+    "title": "Suspicion",
+    "url": "https://dictionary.cambridge.org/dictionary/english/suspicion",
+    "role": "noun",
+    "example": [
+      "[ + that ] I have a suspicion that he only asked me out because my brother persuaded him to.",
+      "She had a nagging/sneaking suspicion that she might have sent the letter to the wrong address.",
+      "\"I'm arresting you on suspicion of illegally possessing drugs,\" said the police officer.",
+      "In these cases, the parents usually come under suspicion.",
+      "usually UK She is under suspicion of murder.",
+      "In this particular case, they are above/beyond suspicion (= cannot be thought to be guilty).",
+      "His strange behaviour aroused/raised his neighbours' suspicions.",
+      "Since they discovered the truth about his background, his colleagues have regarded him with suspicion.",
+      "They feel that she harbours (= has) suspicions of their politics.",
+      "He gave just a suspicion of a smile.",
+      "I have a suspicion of doubt about whether I should accept his invitation or not.",
+      "[ + that clause ] There are suspicions that he may not be able to play at all.",
+      "[ C ] His strange behavior raised suspicions among his co-workers.",
+      "Because he was a new arrival, other workers looked at him with suspicion."
+    ],
+    "description": "a belief or idea that something may be true:",
+    "translate": "ظن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksur/uksurro029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sus/suspi/suspicion.mp3",
+    "different_meanings": [
+      "noun - FEELING OR BELIEF",
+      "noun - FEELING",
+      "noun - SMALL AMOUNT",
+      "noun - BELIEF IN SOMEONE'S GUILT",
+      "noun - DOUBT",
+      "noun - BELIEF IN GUILT"
+    ],
+    "pron": "/səˈspɪʃ.ən/",
     "isCambridge": true
   },
   {
@@ -5758,6 +6148,64 @@
     "isCambridge": true
   },
   {
+    "title": "Retreat",
+    "url": "https://dictionary.cambridge.org/dictionary/english/retreat",
+    "role": "verb",
+    "example": [
+      "Attacks by enemy aircraft forced the tanks to retreat (from the city).",
+      "When she came towards me shouting, I retreated (behind my desk).",
+      "When he's done something wrong, he retreats to his bedroom.",
+      "The government is retreating from its promises.",
+      "Wheat prices retreated after a two-day increase.",
+      "the retreat from Dunkirk",
+      "Enemy soldiers are now in (full) retreat.",
+      "a country/mountain/lakeside retreat",
+      "We went on (a) retreat at/to a monastery in Wales.",
+      "The professor's speech marked/signalled a retreat from his usual extreme views.",
+      "Over the past few weeks we have seen the currency's big retreat from its historic high.",
+      "She burst into tears and retreated to the bedroom.",
+      "Under heavy fire, the soldiers retreated.",
+      "[ U ] Rebel soldiers were in (full) retreat.",
+      "Wheat prices retreated after a two-day increase.",
+      "By the end of business, the dollar had retreated by a full percentage point against the euro.",
+      "retreat to sth Share prices retreated 28p to 721p.",
+      "retreat from sth Other high-tech stocks retreated from strong gains earlier in the week.",
+      "retreat from sth The company retreated from the US market in the late 1990s.",
+      "a retreat from sth Over the past few weeks we have seen the currency's big retreat from its historic high.",
+      "The FTSE 100 was also in retreat as London traders responded to falls on Wall Street."
+    ],
+    "description": "to go away from a place or person in order to escape from fighting or danger:",
+    "translate": "عقب نشینی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukret/ukretre002.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/ret/retre/retreat.mp3",
+    "different_meanings": [
+      "noun - DECISION",
+      "verb - DECISION",
+      "noun - PRICE",
+      "verb - PRICE",
+      "verb - POSITION",
+      "noun - POSITION"
+    ],
+    "pron": "/rɪˈtriːt/",
+    "isCambridge": true
+  },
+  {
+    "title": "Horticulture",
+    "url": "https://dictionary.cambridge.org/dictionary/english/horticulture",
+    "role": "noun",
+    "example": [
+      "In Florida, women farmers run more than 8,000 farms and horticulture operations on their own or as partners.",
+      "horticultural products"
+    ],
+    "description": "the study or activity of growing garden plants",
+    "translate": "باغبانی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhor/ukhorsi004.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hor/horti/horticulture.mp3",
+    "different_meanings": [],
+    "pron": "/ˈhɔː.tɪ.kʌl.tʃər/",
+    "isCambridge": true
+  },
+  {
     "title": "Conventionally",
     "url": "https://dictionary.cambridge.org/dictionary/english/conventionally",
     "role": "adverb",
@@ -5771,6 +6219,26 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00269.mp3",
     "different_meanings": [],
     "pron": "/kənˈven.ʃən.əl.i/",
+    "isCambridge": true
+  },
+  {
+    "title": "Acutely",
+    "url": "https://dictionary.cambridge.org/dictionary/english/acutely",
+    "role": "adverb",
+    "example": [
+      "Management is acutely aware of the resentment that their decision may cause.",
+      "Another scandal would be acutely embarrassing for the government.",
+      "She acutely identified all the main problems."
+    ],
+    "description": "completely or extremely:",
+    "translate": "بطور حاد",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukact/ukactiv019.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/acu/acute/acutely.mp3",
+    "different_meanings": [
+      "adverb - ACCURATELY/CLEVERLY",
+      "adverb - EXTREMELY"
+    ],
+    "pron": "/əˈkjuːt.li/",
     "isCambridge": true
   },
   {
@@ -6449,6 +6917,33 @@
     "isCambridge": true
   },
   {
+    "title": "Presume",
+    "url": "https://dictionary.cambridge.org/dictionary/english/presume",
+    "role": "verb",
+    "example": [
+      "[ + (that) ] I presume (that) they're not coming, since they haven't replied to the invitation.",
+      "[ + speech ] You are Dr Smith, I presume?",
+      "\"Are we walking to the hotel?\" \"I presume not/so.\"",
+      "[ + obj + adj  ] The boat's captain is missing, presumed dead (= it is believed that he is dead).",
+      "In British law, you are presumed innocent until you are proved guilty.",
+      "[ + obj + to infinitive  ] The universe is presumed to contain many other planets with some form of life.",
+      "[ + to infinitive ] I wouldn't presume to tell you how to do your job, but shouldn't this piece go there?",
+      "I don't wish to presume (= make a suggestion although I have no right to), but don't you think you should apologize to her?",
+      "He presumes on her good nature (= takes unfair advantage of it).",
+      "[ + (that) clause ] I presume (that) they’re not coming, since they haven’t replied to the invitation.",
+      "People accused of a crime are presumed innocent until proven guilty.",
+      "[ + to infinitive ] How can you presume to criticize me when you did the same thing yourself?",
+      "Presumably they can afford to buy an apartment, or they wouldn’t be looking."
+    ],
+    "description": "to believe something to be true because it is very likely, although you are not certain:",
+    "translate": "فرض کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpre/ukprese021.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pre/presu/presume.mp3",
+    "different_meanings": ["verb - BE RUDE", "verb - BELIEVE"],
+    "pron": "/prɪˈzjuːm/",
+    "isCambridge": true
+  },
+  {
     "title": "Obligatory",
     "url": "https://dictionary.cambridge.org/dictionary/english/Obligatory",
     "role": "adjective",
@@ -6842,6 +7337,32 @@
     "pron": "/rɪˈnaʊn/"
   },
   {
+    "title": "Encounter",
+    "url": "https://dictionary.cambridge.org/dictionary/english/encounter",
+    "role": "noun",
+    "example": [
+      "encounter with I had an alarming encounter with a wild pig.",
+      "encounter between This meeting will be the first encounter between the party leaders since the election.",
+      "encounter with In their last encounter with Italy, England won 3–2.",
+      "On their way home they encountered a woman selling flowers.",
+      "When did you first encounter these difficulties?",
+      "The army is reported to be encountering considerable resistance.",
+      "In the kitchen I encountered a woman I had never seen before.",
+      "He was shocked by the hostility he encountered.",
+      "My first encounter with death was when Abraham died.",
+      "We encountered a problem with the fuel pump during safety tests.",
+      "This is the first time I have encountered racism at work.",
+      "Customer service representatives are trained to handle encounters with angry customers."
+    ],
+    "description": "a meeting, especially one that happens by chance:",
+    "translate": "مواجه شدن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukenc/ukencas018.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71529.mp3",
+    "different_meanings": ["verb - MEET", "verb - EXPERIENCE"],
+    "pron": "/ɪnˈkaʊn.tər/",
+    "isCambridge": true
+  },
+  {
     "title": "Stimulus",
     "url": "https://dictionary.cambridge.org/dictionary/english/stimulus",
     "role": "noun",
@@ -7025,6 +7546,23 @@
     "pron": "/ɪnˈstɪŋk.tɪv.li/"
   },
   {
+    "title": "Ardent",
+    "url": "https://dictionary.cambridge.org/dictionary/english/ardent",
+    "role": "adjective",
+    "example": [
+      "an ardent supporter of Manchester United",
+      "an ardent feminist",
+      "They were ardent pacifists."
+    ],
+    "description": "showing strong feelings:",
+    "translate": "سرزنده",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukarc/ukarchi008.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/ard/arden/ardent.mp3",
+    "different_meanings": [],
+    "pron": "/ˈɑː.dənt/",
+    "isCambridge": true
+  },
+  {
     "title": "Prolonged",
     "url": "https://dictionary.cambridge.org/dictionary/english/Prolonged",
     "role": "adjective",
@@ -7049,6 +7587,29 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdomi/cdomiscusvene0195.mp3",
     "different_meanings": [],
     "pron": "/vəˌniː.ʃən ˈblaɪnd/",
+    "isCambridge": true
+  },
+  {
+    "title": "Resonate",
+    "url": "https://dictionary.cambridge.org/dictionary/english/resonate",
+    "role": "verb",
+    "example": [
+      "His voice resonated in the empty church.",
+      "The noise of the bell resonated through the building.",
+      "The building resonates with historic significance.",
+      "The significance of those great stories resonates down the centuries.",
+      "Her experiences resonate powerfully with me, living, as I do, in a similar family situation.",
+      "What exactly is it about that music that resonates with you?",
+      "She spoke about both doubting herself and believing in herself, and I definitely resonate with that.",
+      "The thing that I resonated with as a kid was that you always had special protection from your parents.",
+      "The noise of the bell resonated through the building."
+    ],
+    "description": "to produce, increase, or fill with sound, by vibrating (= shaking) objects that are near:",
+    "translate": "طنین انداز کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukres/ukresid027.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/res/reson/resonate.mp3",
+    "different_meanings": ["verb - HAVE QUALITY/EFFECT", "verb - MAKE SOUND"],
+    "pron": "/ˈrez.ən.eɪt/",
     "isCambridge": true
   },
   {
@@ -7326,6 +7887,28 @@
     "isCambridge": true
   },
   {
+    "title": "Lateral",
+    "url": "https://dictionary.cambridge.org/dictionary/english/lateral",
+    "role": "adjective",
+    "example": [
+      "lateral movement",
+      "Trim the lateral shoots of the flower (= the ones that grow sideways from the main stem of a plant).",
+      "In English, /l/ is lateral.",
+      "The bird spread its wings for lateral stability.",
+      "Designers added more storage space, with lateral expansion of the rear compartment.",
+      "lateral move/movement Susan's lateral move to do the same job at a competitor meant better benefits and more pay.",
+      "We've made a number of important lateral hires from quality firms.",
+      "He moved laterally to head the consumer and small business banking division of a national bank."
+    ],
+    "description": "relating to the sides of an object or plant or to sideways movement:",
+    "translate": "جانبی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/uklat/uklat__010.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/l/lat/later/lateral.mp3",
+    "different_meanings": [],
+    "pron": "/ˈlæt.ər.əl/",
+    "isCambridge": true
+  },
+  {
     "title": "Sound",
     "url": "https://dictionary.cambridge.org/dictionary/english/Sound",
     "role": "noun",
@@ -7551,6 +8134,49 @@
     "pron": "/preɪz/"
   },
   {
+    "title": "Medium",
+    "url": "https://dictionary.cambridge.org/dictionary/english/medium",
+    "role": "adjective",
+    "example": [
+      "a girl of medium height",
+      "a medium-sized book",
+      "Would you like your steak rare, medium, or well done?",
+      "the broadcasting/print medium",
+      "They told the story through the medium of dance.",
+      "Compost is an excellent growing medium.",
+      "He was a man of medium height.",
+      "The shirt is available in small, medium, and large sizes.",
+      "Would you like your steak rare, medium, or well-done?",
+      "the broadcasting/print medium",
+      "The work of art was done in mixed media (= using different substances), and included wood shavings, pieces of metal, glue, and oil paint.",
+      "a medium of sth Interactive TV opens up the medium of television to the participation of individuals.",
+      "a medium for sth The internet is a growing medium for uncensored information and discussion.",
+      "Typically cinema is the chosen medium for visualizing the future.",
+      "advertising/communications/marketing medium Many businesses are finding Web video an attractive marketing medium.",
+      "digital/interactive/storage media The government has identified digital media as a key opportunity.",
+      "a medium for sth Products are the medium for communication between corporations and the market.",
+      "a medium of sth Body language is often consciously used as a medium of expressing thoughts and feelings.",
+      "through the medium of sth They advertise through the medium of direct mail.",
+      "Could I try on a medium, please?",
+      "Production of existing small and medium cars will continue at the plant."
+    ],
+    "description": "being in the middle between an upper and lower amount, size, degree, or value:",
+    "translate": "واسطه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmed/ukmeddl028.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/m/med/mediu/medium.mp3",
+    "different_meanings": [
+      "noun - PERSON",
+      "adjective - MIDDLE",
+      "adjective - AVERAGE",
+      "noun - MATERIAL/SUBSTANCE",
+      "noun - METHOD",
+      "adjective - MEAT",
+      "noun - SUBSTANCE"
+    ],
+    "pron": "/ˈmiː.di.əm/",
+    "isCambridge": true
+  },
+  {
     "title": "Embryo",
     "url": "https://dictionary.cambridge.org/dictionary/english/embryo",
     "role": "noun",
@@ -7682,6 +8308,34 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75698.mp3",
     "different_meanings": [],
     "pron": "/ɪnˈtæŋ.ɡəl/",
+    "isCambridge": true
+  },
+  {
+    "title": "Relish",
+    "url": "https://dictionary.cambridge.org/dictionary/english/relish",
+    "role": "verb",
+    "example": [
+      "I always relish a challenge.",
+      "[ + -ing verb ] I don't relish telling her that her son has been arrested.",
+      "She's relishing the prospect of studying in Bologna for six months.",
+      "tomato and onion relish",
+      "Would you like relish on your burger?",
+      "She ate her cake slowly and with relish.",
+      "I have no relish for hunting and killing animals.",
+      "I enjoyed our vacation, but didn’t relish the twenty-hour trip back home.",
+      "[ U ] We have relish for the hamburgers and hot dogs."
+    ],
+    "description": "to like or enjoy something:",
+    "translate": "خوشی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrel/ukrelen019.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rel/relis/relish.mp3",
+    "different_meanings": [
+      "noun - SAUCE",
+      "verb - ENJOY",
+      "noun - ENJOY",
+      "noun - ENJOYMENT"
+    ],
+    "pron": "/ˈrel.ɪʃ/",
     "isCambridge": true
   },
   {
@@ -8034,6 +8688,19 @@
     "isCambridge": true
   },
   {
+    "title": "Sewn",
+    "url": "https://dictionary.cambridge.org/dictionary/english/sewn",
+    "role": "Role not found",
+    "example": ["Example not found"],
+    "description": "past participle of \nsew",
+    "translate": "دوس کردن",
+    "pronounce_audio_uk_link": "Audio not found",
+    "pronounce_audio_us_link": "Audio not found",
+    "different_meanings": [],
+    "pron": "Pron not found",
+    "isCambridge": true
+  },
+  {
     "title": "Abrupt",
     "url": "https://dictionary.cambridge.org/dictionary/english/abrupt",
     "role": "adjective",
@@ -8126,6 +8793,22 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/con/consi/considerable.mp3",
     "different_meanings": [],
     "pron": "/kənˈsɪd.ər.ə.bəl/"
+  },
+  {
+    "title": "Attic",
+    "url": "https://dictionary.cambridge.org/dictionary/english/attic",
+    "role": "noun",
+    "example": [
+      "I've got boxes of old clothes in the attic.",
+      "an attic bedroom at the top of the house"
+    ],
+    "description": "the space or room at the top of a building, under the roof, often used for storing things:",
+    "translate": "اژانیک",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukatt/ukatten006.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70366.mp3",
+    "different_meanings": [],
+    "pron": "/ˈæt.ɪk/",
+    "isCambridge": true
   },
   {
     "title": "Husk",
@@ -8396,6 +9079,31 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usl/usl30/usl30228.mp3",
     "different_meanings": [],
     "pron": "/kənˈsɜː.tɪd/"
+  },
+  {
+    "title": "Underestimate",
+    "url": "https://dictionary.cambridge.org/dictionary/english/underestimate",
+    "role": "verb",
+    "example": [
+      "Originally the contractor gave me a price of €2,000, but now they say they underestimated and it's going to be at least €3,000.",
+      "Don't underestimate the difficulties of getting both parties to the conference table.",
+      "Never underestimate your opponent!",
+      "Obviously, $100 was a serious underestimate.",
+      "The official death toll could be an underestimate.",
+      "Homeowners often underestimate the cost of repairing a roof.",
+      "The company sorely underestimated demand and is struggling to expand output.",
+      "Court interpreters say the skills required to do the job are underestimated.",
+      "Sometimes his modest manner led people to underestimate him.",
+      "The total cost is likely to be an underestimate.",
+      "I believe there is a significant underestimation of the real demand for oil from the developing world."
+    ],
+    "description": "to fail to guess or understand the real cost, size, difficulty, etc. of something:",
+    "translate": "دست کم گرفتن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uku/ukund/ukundef024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74712.mp3",
+    "different_meanings": ["verb - PERSON", "verb - AMOUNT"],
+    "pron": "/ˌʌn.dəˈres.tɪ.meɪt/",
+    "isCambridge": true
   },
   {
     "title": "Circulation",
@@ -8773,6 +9481,29 @@
       "verb - COMPANY"
     ],
     "pron": "/ɪnˈkɔː.pər.eɪt/"
+  },
+  {
+    "title": "Devastating",
+    "url": "https://dictionary.cambridge.org/dictionary/english/devastating",
+    "role": "adjective",
+    "example": [
+      "If the bomb had exploded in the main shopping area, it would have been devastating.",
+      "devastating consequences/effects The drought has had devastating consequences/effects.",
+      "devastating news",
+      "She had a devastating beauty/charm/smile that few men could resist.",
+      "devastating criticisms",
+      "It will have a devastating impact on the economy."
+    ],
+    "description": "causing a lot of damage or destruction:",
+    "translate": "ویرانگر",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdet/ukdetou017.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dev/devas/devastating.mp3",
+    "different_meanings": [
+      "adjective - VERY HARMFUL",
+      "adjective - STRONG EFFECT"
+    ],
+    "pron": "/ˈdev.ə.steɪ.tɪŋ/",
+    "isCambridge": true
   },
   {
     "title": "Auditor",
@@ -9567,6 +10298,28 @@
     "pron": "/ˌɪn.kænˈdes.ənt/"
   },
   {
+    "title": "Disclosure",
+    "url": "https://dictionary.cambridge.org/dictionary/english/disclosure",
+    "role": "noun",
+    "example": [
+      "disclosure of Any public disclosure of this information would be very damaging to the company.",
+      "The newspaper made damaging disclosures of management incompetence.",
+      "[ C ] Some of the disclosures in the final report were very surprising.",
+      "[ U ] Full financial disclosure is required.",
+      "Her financial disclosure describes her work for the company as \"consulting/media/public relations.\"",
+      "Disclosure of sales and operating profit has confirmed the company's growth within the electronics sector.",
+      "Insurers may request the disclosure of existing genetic test results.",
+      "The FDA requires pharmaceutical companies to provide full disclosure about the risks of their drug products."
+    ],
+    "description": "the act of making something known or the fact that is made known:",
+    "translate": "افشای",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdis/ukdisci008.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dis/discl/disclosure.mp3",
+    "different_meanings": [],
+    "pron": "/dɪˈskləʊ.ʒər/",
+    "isCambridge": true
+  },
+  {
     "title": "Mandate",
     "url": "https://dictionary.cambridge.org/dictionary/english/Mandate",
     "role": "noun",
@@ -9999,6 +10752,37 @@
     "pron": "/ˈræm.pənt/"
   },
   {
+    "title": "Superficial",
+    "url": "https://dictionary.cambridge.org/dictionary/english/superficial",
+    "role": "adjective",
+    "example": [
+      "He's fun to be with, but he's very superficial.",
+      "I thought that article was written at a very superficial level.",
+      "The documentary's treatment/analysis of the issues was very superficial.",
+      "I only have a superficial (= slight) knowledge of French.",
+      "There are superficial similarities between the two cars, but really they're very different in terms of performance.",
+      "superficial damage",
+      "The driver only received superficial injuries/cuts/wounds.",
+      "a superficial wound",
+      "Her book on the history of cars in America was extremely superficial.",
+      "The storm was not bad, and most property damage was superficial."
+    ],
+    "description": "(of a person) never thinking about things that are serious or important:",
+    "translate": "سطحی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksun/uksuntr020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sup/super/superficial.mp3",
+    "different_meanings": [
+      "adjective - NOT MUCH",
+      "adjective - NOT SERIOUS",
+      "adjective - FALSE APPEARANCE",
+      "adjective - ONLY ON SURFACE",
+      "adjective - NOT COMPLETE",
+      "adjective - NOT DEEP"
+    ],
+    "pron": "/ˌsuː.pəˈfɪʃ.əl/",
+    "isCambridge": true
+  },
+  {
     "title": "Crucial",
     "url": "https://dictionary.cambridge.org/dictionary/english/Crucial",
     "role": "adjective",
@@ -10166,6 +10950,26 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/exe/exert/exert.mp3",
     "different_meanings": ["verb - MAKE AN EFFORT", "verb - USE"],
     "pron": "/ɪɡˈzɜːt/",
+    "isCambridge": true
+  },
+  {
+    "title": "Excessive",
+    "url": "https://dictionary.cambridge.org/dictionary/english/excessive",
+    "role": "adjective",
+    "example": [
+      "Excessive exercise can sometimes cause health problems.",
+      "Any more pudding would simply be excessive.",
+      "Some property owners complained that they were being charged excessive fees.",
+      "The directive will prevent employees from working excessive hours.",
+      "Investing offshore is only worthwhile if the costs involved are not excessive.",
+      "The present system of tax reliefs is excessively complicated."
+    ],
+    "description": "too much:",
+    "translate": "زیاد",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukexc/ukexces002.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/exc/exces/excessive.mp3",
+    "different_meanings": [],
+    "pron": "/ekˈses.ɪv/",
     "isCambridge": true
   },
   {
@@ -10649,6 +11453,32 @@
     "isCambridge": true
   },
   {
+    "title": "Rectify",
+    "url": "https://dictionary.cambridge.org/dictionary/english/rectify",
+    "role": "verb",
+    "example": [
+      "I am determined to take whatever action is necessary to rectify the situation.",
+      "Every effort is made to rectify any errors/mistakes before the book is printed.",
+      "I hadn’t meant to cause trouble, and asked what I could do to rectify the situation.",
+      "How do we rectify the alarming fall in stock market performance?",
+      "rectify a problem/situation/mistake The CEO and upper management pledged to take the necessary steps to rectify the situation.",
+      "be rectified Marketing strategies appear to have been weak and this must be rectified to facilitate growth.",
+      "The President failed to deliver on his promise to rectify the public finances.",
+      "Contributions to the pension fund have been increased to about £1m annually and the firm expects this to rectify the shortfall within about 10 years."
+    ],
+    "description": "to correct something or make something right:",
+    "translate": "اصلاح کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrec/ukrecor025.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rec/recti/rectify.mp3",
+    "different_meanings": [
+      "verb - MAKE PURE",
+      "verb - ELECTRIC CURRENT",
+      "verb - CORRECT"
+    ],
+    "pron": "/ˈrek.tɪ.faɪ/",
+    "isCambridge": true
+  },
+  {
     "title": "Ingest",
     "url": "https://dictionary.cambridge.org/dictionary/english/ingest",
     "role": "verb",
@@ -10733,6 +11563,40 @@
     "pron": "/prəˈfeʃ.ən/"
   },
   {
+    "title": "Inference",
+    "url": "https://dictionary.cambridge.org/dictionary/english/inference",
+    "role": "noun",
+    "example": [
+      "by inference They were warned to expect a heavy air attack and by inference many casualties.",
+      "His change of mind was recent and sudden, the inference being that someone had persuaded him."
+    ],
+    "description": "a guess that you make or an opinion that you form based on the information that you have:",
+    "translate": "استنباط",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukinf/ukinfec006.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/i/inf/infer/inference.mp3",
+    "different_meanings": [],
+    "pron": "/ˈɪn.fər.əns/",
+    "isCambridge": true
+  },
+  {
+    "title": "Paperback",
+    "url": "https://dictionary.cambridge.org/dictionary/english/paperback",
+    "role": "noun",
+    "example": [
+      "a best-selling paperback",
+      "I'll buy some paperbacks at the airport.",
+      "It will be published in paperback (= as a paperback) in March.",
+      "I want to get a paperback to read on the plane."
+    ],
+    "description": "a book with a cover made of thick paper:",
+    "translate": "بشقاب شومیز",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpan/ukpanor027.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspan/uspaneg018.mp3",
+    "different_meanings": [],
+    "pron": "/ˈpeɪ.pə.bæk/",
+    "isCambridge": true
+  },
+  {
     "title": "Cognition",
     "url": "https://dictionary.cambridge.org/dictionary/english/Cognition",
     "role": "noun",
@@ -10807,6 +11671,46 @@
       "verb - BEND/BREAK"
     ],
     "pron": "/jiːld/",
+    "isCambridge": true
+  },
+  {
+    "title": "Caution",
+    "url": "https://dictionary.cambridge.org/dictionary/english/caution",
+    "role": "noun",
+    "example": [
+      "proceed with caution We need to proceed with caution (= be careful in taking action, making decisions, etc.)",
+      "exercise caution You should exercise caution when swimming in places where there are submerged rocks.",
+      "treat something with caution They treated the story of his escape with (some/great/extreme) caution (= thought that it might not be true).",
+      "As it was her first offence, she was only given a caution.",
+      "word of caution Just a word of caution - the cheaper models probably aren't worth buying.",
+      "caution someone against something/doing something The newspaper cautioned its readers against buying shares without getting good advice first.",
+      "It’s a good time to invest, he said, but a word of caution is in order.",
+      "Use caution when approaching the railroad crossing.",
+      "Some saw the fatal crash as a cautionary tale about the use of cell phones while driving.",
+      "[ T ] They cautioned her not to walk through the park at night.",
+      "[ I always + adv/prep ] Experts caution against reading too much into the decline of stock market prices.",
+      "The latest figures suggest that consumer caution has increased in recent months.",
+      "Those keen on investing in small companies should proceed with caution.",
+      "great/extreme caution The letter outlines that customers should treat any email appearing to be from their bank with great caution.",
+      "exercise/use caution Investors are urged to exercise caution to avoid the less reputable companies.",
+      "advise/urge caution",
+      "Given the uncertainties in the market, it would be far better to err on the side of caution.",
+      "Faced with one of the worst financial crises in recent memory, British investors threw caution to the wind and scrambled to buy stocks.",
+      "The Committee sounded a note of caution, saying the extra money entering the economy may push up inflation.",
+      "caution that Economists caution that retail sales tax collections represent about half of all retail spending."
+    ],
+    "description": "great care and attention:",
+    "translate": "احتیاط",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcat/ukcatsu024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cau/cauti/caution.mp3",
+    "different_meanings": [
+      "noun - FOOTBALL",
+      "verb - FOOTBALL",
+      "noun - WARNING",
+      "noun - CARE",
+      "verb - police"
+    ],
+    "pron": "/ˈkɔː.ʃən/",
     "isCambridge": true
   },
   {
@@ -10962,6 +11866,39 @@
     "isCambridge": true
   },
   {
+    "title": "Divert",
+    "url": "https://dictionary.cambridge.org/dictionary/english/divert",
+    "role": "verb",
+    "example": [
+      "Traffic will be diverted through the side streets while the main road is resurfaced.",
+      "be diverted to Our flight had to be diverted to Newark because of the storm.",
+      "Should more funds/money/resources be diverted from roads into railways?",
+      "divert attention from The war has diverted attention from the country's economic problems.",
+      "It's a great game for diverting restless kids on long car rides .",
+      "Our flight was diverted from San Francisco to Oakland because of the fog.",
+      "The administration had to divert funds from the defense budget to pay for the emergency relief effort.",
+      "Military action now could divert attention from imminent votes in Congress on health-care legislation.",
+      "The dog kept the children diverted for a while.",
+      "divert sth to sb/sth Mutuals tend to pay out more than quoted insurers because they do not have to divert a chunk of their profits to shareholders.",
+      "divert sth from sth to/into sth The company is to divert resources from its traditional retail interiors operation into its furniture business.",
+      "The news of his appointment diverted attention from a 20% fall in pretax profit.",
+      "If you see a hair care product that you think may be an illegally diverted product, call the brand manufacturer right away.",
+      "Many of the shipments have been diverted from air to rail.",
+      "Shipping lines were considering diverting their vessels to other major Japanese ports to unload cargo.",
+      "A phone can be set to divert a call when the line is busy."
+    ],
+    "description": "to cause something or someone to change direction:",
+    "translate": "منحرف شدن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdiv/ukdiver001.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75634.mp3",
+    "different_meanings": [
+      "verb - CHANGE DIRECTION",
+      "verb - TAKE ATTENTION AWAY"
+    ],
+    "pron": "/daɪˈvɜːt/",
+    "isCambridge": true
+  },
+  {
     "title": "Confess",
     "url": "https://dictionary.cambridge.org/dictionary/english/confess",
     "role": "verb",
@@ -11066,6 +12003,76 @@
     "isCambridge": true
   },
   {
+    "title": "Bear",
+    "url": "https://dictionary.cambridge.org/dictionary/english/bear",
+    "role": "verb",
+    "example": [
+      "The strain must have been enormous but she bore it well.",
+      "Tell me now! I can't bear the suspense!",
+      "[ + to infinitive ] He couldn't bear to see the dog in pain.",
+      "[ + -ing verb ] I can't bear being bored.",
+      "bear responsibility It's your decision - you have to bear the responsibility if things go wrong.",
+      "bear the burden They say that landlords should bear the burden of these repairs and not tenants.",
+      "bear the cost I suggest you claim on your insurance rather than bearing the cost yourselves.",
+      "\"What if she'd been driving faster?\" \"It doesn't bear thinking about.\"",
+      "bear something in mind Thank you for your advice - I'll bear it in mind (= I will remember and consider it).",
+      "bear a resemblance to Their baby bears a strong resemblance to its grandfather.",
+      "bear no resemblance to The game is colourful and exciting, but bears no resemblance to (= is completely different from) real driving.",
+      "The stone plaque bearing his name was smashed to pieces.",
+      "On display were boxing gloves that bore Rocky Marciano's signature.",
+      "[ + two objects ] I don't bear them any ill feeling (= I do not continue to be angry with or dislike them).",
+      "bear someone's weight The chair, too fragile to bear her weight, collapsed.",
+      "bear the weight of I don't think that the table will bear the weight of the heavy machinery.",
+      "The pear tree they planted has never borne fruit.",
+      "She had borne six children by the time she was 30.",
+      "[ + two objects ] When his wife bore him a child he could not hide his delight.",
+      "Most animals bear their young in the spring.",
+      "bear gifts At Christmas the family all arrive at the house bearing gifts.",
+      "Countless waiters bore trays of drinks into the room.",
+      "The sound of the ice cream van was borne into the office on the wind.",
+      "bear left After you go past the church keep bearing left.",
+      "bear right Bear right at the fork in the road.",
+      "The path followed the coastline for several miles, then bore inland.",
+      "bear witness to She bore witness to his patience and diligence.",
+      "The iron bridge bears testimony to the skills developed in that era.",
+      "He accused his neighbour of bearing false witness against him.",
+      "A mother bear is fiercely protective of her cubs.",
+      "a brown/black bear",
+      "a black/grizzly/polar bear",
+      "Fans bearing banners ringed the stadium.",
+      "The bridge has to be strengthened to bear heavier loads.",
+      "[ T ] Since you will bear most of the responsibility, you should get the rewards.",
+      "[ + to infinitive ] He could not bear to see her suffering.",
+      "My life bore little resemblance to what I’d hoped for.",
+      "She bore three children in five years.",
+      "After you pass the light, bear left until you come to a bank.",
+      "The brokerage, which has been a persistent bear in recent months, switched its recommendation from sell to hold.",
+      "The bears are driven by bad economic news from Japan, such as July's 2.4% monthly slump in industrial production."
+    ],
+    "description": "to accept, tolerate, or endure something, especially something unpleasant:",
+    "translate": "تحمل کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukban/ukbanqu030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/b/bar/bare_/bare.mp3",
+    "different_meanings": [
+      "noun - FINANCE",
+      "verb - BRING",
+      "verb - CHANGE DIRECTION",
+      "verb - SUPPORT",
+      "verb - ACCEPT, TAKE",
+      "noun - MAN",
+      "verb - TRAVEL",
+      "verb - KEEP, HAVE",
+      "verb - SAY",
+      "verb - ACCEPT",
+      "verb - CARRY",
+      "verb - PRODUCE",
+      "verb - HAVE",
+      "noun - ANIMAL"
+    ],
+    "pron": "/beər/",
+    "isCambridge": true
+  },
+  {
     "title": "Endangered",
     "url": "https://dictionary.cambridge.org/dictionary/english/endangered",
     "role": "adjective",
@@ -11125,6 +12132,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspt_/uspt___025.mp3",
     "different_meanings": [],
     "pron": "/ˈpʌm.ɪs/",
+    "isCambridge": true
+  },
+  {
+    "title": "Councillor",
+    "url": "https://dictionary.cambridge.org/dictionary/english/councillor",
+    "role": "noun",
+    "example": ["a town/city/county/local councillor", "Councillor Moore"],
+    "description": "an elected member of a local government:",
+    "translate": "مشاور",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcos/ukcossa030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cou/couns/counselor.mp3",
+    "different_meanings": [],
+    "pron": "/ˈkaʊn.səl.ər/",
     "isCambridge": true
   },
   {
@@ -11311,6 +12331,26 @@
     "pron": "/ˈrem.ə.di/"
   },
   {
+    "title": "Disclose",
+    "url": "https://dictionary.cambridge.org/dictionary/english/disclose",
+    "role": "verb",
+    "example": [
+      "The company has disclosed profits of over £200 million.",
+      "[ + that ] The police have disclosed that two officers are under internal investigation.",
+      "Terms of the agreement were not disclosed.",
+      "Shareholders are required to disclose their receipt of tax-exempt interest on their federal income tax returns.",
+      "An applicant for insurance must disclose any information relevant to the insurer.",
+      "disclose that The company was sued for false advertising when it failed to disclose that its \"diet\" foods contained high levels of saturated fat."
+    ],
+    "description": "to make something known publicly, or to show something that was hidden:",
+    "translate": "فاش کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdis/ukdisci007.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dis/discl/disclose.mp3",
+    "different_meanings": [],
+    "pron": "/dɪˈskləʊz/",
+    "isCambridge": true
+  },
+  {
     "title": "Dense",
     "url": "https://dictionary.cambridge.org/dictionary/english/dense",
     "role": "adjective",
@@ -11484,6 +12524,23 @@
     "isCambridge": true
   },
   {
+    "title": "Fume",
+    "url": "https://dictionary.cambridge.org/dictionary/english/fume",
+    "role": "verb",
+    "example": [
+      "I saw her a week after they'd had the argument and she was still fuming.",
+      "fume at The whole episode left me fuming at the injustice of it all.",
+      "Days after the argument, he was still fuming."
+    ],
+    "description": "to be very angry, sometimes without expressing it:",
+    "translate": "بخار",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfuc/ukfucke030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/f/fum/fume_/fume.mp3",
+    "different_meanings": [],
+    "pron": "/fjuːm/",
+    "isCambridge": true
+  },
+  {
     "title": "Laden",
     "url": "https://dictionary.cambridge.org/dictionary/english/laden",
     "role": "adjective",
@@ -11560,6 +12617,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74584.mp3",
     "different_meanings": [],
     "pron": "/ˈtɒp.sɔɪl/"
+  },
+  {
+    "title": "Flotilla",
+    "url": "https://dictionary.cambridge.org/dictionary/english/flotilla",
+    "role": "noun",
+    "example": ["Example not found"],
+    "description": "a large group of boats or small ships",
+    "translate": "شناور",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukflo/ukflori009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/f/flo/floti/flotilla.mp3",
+    "different_meanings": [],
+    "pron": "/fləˈtɪl.ə/",
+    "isCambridge": true
   },
   {
     "title": "Curb",
@@ -11709,6 +12779,22 @@
     "isCambridge": true
   },
   {
+    "title": "Perching",
+    "url": "https://dictionary.cambridge.org/dictionary/english/perching",
+    "role": "verb",
+    "example": [
+      "We perched on bar stools and had a beer.",
+      "The village is perched on top of a high hill."
+    ],
+    "description": "present participle of \nperch",
+    "translate": "غوطه ور",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpen/ukpente029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/per/perch/perch.mp3",
+    "different_meanings": [],
+    "pron": "/pɜːtʃ/",
+    "isCambridge": true
+  },
+  {
     "title": "Publicity",
     "url": "https://dictionary.cambridge.org/dictionary/english/Publicity",
     "role": "noun",
@@ -11782,6 +12868,34 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/t/tra/tradi/tradition.mp3",
     "different_meanings": [],
     "pron": "/trəˈdɪʃ.ən/"
+  },
+  {
+    "title": "Plumb",
+    "url": "https://dictionary.cambridge.org/dictionary/english/plumb",
+    "role": "verb",
+    "example": [
+      "We've discovered that our house isn't plumbed properly.",
+      "plumb something into something I think we can plumb the new bath into the existing pipes.",
+      "plumb something in Have you plumbed the dishwasher in yet?",
+      "Now that she had begun, she wanted to plumb her own childhood further.",
+      "The hotel is plumb in the middle of the town.",
+      "He hit me plumb on the nose.",
+      "I plumb forgot your birthday.",
+      "When you hang a door, you need to make sure that it is both level and plumb.",
+      "The external wall is out of plumb by half a metre."
+    ],
+    "description": "to supply a building or a device with water pipes, or to connect a building or a device to a water pipe:",
+    "translate": "عمود",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukplo/ukplodd020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/plu/plum_/plum.mp3",
+    "different_meanings": [
+      "adverb - EXACTLY",
+      "verb - DEEP",
+      "adverb - COMPLETELY",
+      "verb - WATER"
+    ],
+    "pron": "/plʌm/",
+    "isCambridge": true
   },
   {
     "title": "Sharpen",
@@ -12117,6 +13231,23 @@
     "pron": "/ˈstænd.pɔɪnt/"
   },
   {
+    "title": "Skull",
+    "url": "https://dictionary.cambridge.org/dictionary/english/skull",
+    "role": "noun",
+    "example": [
+      "The soldiers discovered a pile of human skulls and bones.",
+      "He fractured his skull in an automobile accident.",
+      "infml Cartoons will fill your skull full of mush."
+    ],
+    "description": "the bones of the head that surround the brain and give the head its shape:",
+    "translate": "جمجمه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/ukski/ukskinl029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sku/skull/skull.mp3",
+    "different_meanings": [],
+    "pron": "/skʌl/",
+    "isCambridge": true
+  },
+  {
     "title": "Infect",
     "url": "https://dictionary.cambridge.org/dictionary/english/infect",
     "role": "verb",
@@ -12312,6 +13443,23 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/abo/aboli/abolish.mp3",
     "different_meanings": [],
     "pron": "/əˈbɒl.ɪʃ/",
+    "isCambridge": true
+  },
+  {
+    "title": "Surveillance",
+    "url": "https://dictionary.cambridge.org/dictionary/english/surveillance",
+    "role": "noun",
+    "example": [
+      "The police have kept the nightclub under surveillance because of suspected illegal drug activity.",
+      "More banks are now installing surveillance cameras.",
+      "The parking lot is kept under video surveillance."
+    ],
+    "description": "the careful watching of a person or place, especially by the police or army, because of a crime that has happened or is expected:",
+    "translate": "نظارت",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksur/uksurro008.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74445.mp3",
+    "different_meanings": [],
+    "pron": "/səˈveɪ.ləns/",
     "isCambridge": true
   },
   {
@@ -12695,6 +13843,42 @@
     "pron": "/ˈleftˌəʊ.vər/"
   },
   {
+    "title": "Herb",
+    "url": "https://dictionary.cambridge.org/dictionary/english/herb",
+    "role": "noun",
+    "example": [
+      "dried/fresh herbs",
+      "Basil, oregano, thyme, and rosemary are all herbs.",
+      "herbs and spices A large range of herbs and spices are used in South Asian cooking."
+    ],
+    "description": "a type of plant whose leaves are used in cooking to give flavour to particular dishes or in making medicine:",
+    "translate": "گیاه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhen/ukhenpe012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/her/herb_/herb.mp3",
+    "different_meanings": [],
+    "pron": "/hɜːb/",
+    "isCambridge": true
+  },
+  {
+    "title": "Quench",
+    "url": "https://dictionary.cambridge.org/dictionary/english/quench",
+    "role": "verb",
+    "example": [
+      "When it's hot, it's best to quench your thirst with water.",
+      "The flames were quenched by heavy rain.",
+      "Her thirst for knowledge will never be quenched.",
+      "We quenched our thirst at a mountain spring.",
+      "Heavy rains quenched the fire."
+    ],
+    "description": "to drink liquid so that you stop being thirsty:",
+    "translate": "خاموش کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukq/ukqua/ukquart019.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/q/que/quenc/quench.mp3",
+    "different_meanings": [],
+    "pron": "/kwentʃ/",
+    "isCambridge": true
+  },
+  {
     "title": "Crutches",
     "url": "https://dictionary.cambridge.org/dictionary/english/crutches",
     "role": "noun",
@@ -12741,6 +13925,22 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/riv/rival/rival.mp3",
     "different_meanings": [],
     "pron": "/ˈraɪ.vəl/"
+  },
+  {
+    "title": "Pothole",
+    "url": "https://dictionary.cambridge.org/dictionary/english/pothole",
+    "role": "noun",
+    "example": [
+      "The car's suspension is so good that when you hit a pothole you hardly notice it.",
+      "The road to economic recovery is full of potholes."
+    ],
+    "description": "a hole in a road surface that results from gradual damage caused by traffic and/or weather:",
+    "translate": "گودال",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpos/ukpostw020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pot/potho/pothole.mp3",
+    "different_meanings": ["noun - PROBLEM", "noun - HOLE"],
+    "pron": "/ˈpɒt.həʊl/",
+    "isCambridge": true
   },
   {
     "title": "Assessor",
@@ -12948,6 +14148,25 @@
       "adjective - ROCK"
     ],
     "pron": "/ɪnˈtruː.sɪv/",
+    "isCambridge": true
+  },
+  {
+    "title": "Patron",
+    "url": "https://dictionary.cambridge.org/dictionary/english/patron",
+    "role": "noun",
+    "example": [
+      "The Princess Royal is a well-known patron of several charities.",
+      "Will patrons kindly note that this restaurant will be closed on 17 July .",
+      "Auchincloss is a longtime patron of the arts.",
+      "This car park is for patrons only.",
+      "arts patron/patron of the arts The company has been a longtime patron of the arts."
+    ],
+    "description": "a person or group that supports an activity or organization, especially by giving money:",
+    "translate": "حامی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpat/ukpatie022.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pat/patro/patron.mp3",
+    "different_meanings": ["noun - CUSTOMER", "noun - SUPPORTER"],
+    "pron": "/ˈpeɪ.trən/",
     "isCambridge": true
   },
   {
@@ -13229,6 +14448,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cbe/cbedu/cbedus09968.mp3",
     "different_meanings": [],
     "pron": "/ˌʌndərɪnˈvestmənt/"
+  },
+  {
+    "title": "Garment",
+    "url": "https://dictionary.cambridge.org/dictionary/english/garment",
+    "role": "noun",
+    "example": ["He’s fussy about how a garment fits him."],
+    "description": "a piece of clothing",
+    "translate": "پوشاک",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukg/ukgan/ukganja030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/g/gar/garme/garment.mp3",
+    "different_meanings": [],
+    "pron": "/ˈɡɑː.mənt/",
+    "isCambridge": true
   },
   {
     "title": "Ease",
@@ -13663,6 +14895,23 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/n/not/notew/noteworthy.mp3",
     "different_meanings": [],
     "pron": "/ˈnəʊtˌwɜː.ði/",
+    "isCambridge": true
+  },
+  {
+    "title": "Potted",
+    "url": "https://dictionary.cambridge.org/dictionary/english/potted",
+    "role": "adjective",
+    "example": [
+      "I took him a potted plant as a present.",
+      "potted meat/shrimps",
+      "They publish a potted version of Shakespeare's plays especially for children."
+    ],
+    "description": "a plant that is grown in a pot:",
+    "translate": "گلدان",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpos/ukpostw028.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspos/uspostm019.mp3",
+    "different_meanings": ["adjective - SHORT FORM", "adjective - FOOD"],
+    "pron": "/ˈpɒt.ɪd/",
     "isCambridge": true
   },
   {
@@ -14142,6 +15391,44 @@
     "isCambridge": true
   },
   {
+    "title": "Comprehend",
+    "url": "https://dictionary.cambridge.org/dictionary/english/comprehend",
+    "role": "verb",
+    "example": [
+      "I fail to comprehend their attitude.",
+      "He doesn't seem to comprehend the scale of the problem",
+      "[ + question word ] I'll never comprehend why she did what she did.",
+      "[ + that ] I don't think he fully comprehends that she won't be here to help him.",
+      "If you don’t comprehend something, don’t be afraid to seem dumb, just speak out.",
+      "The directions were written in clear, comprehensible English."
+    ],
+    "description": "to understand something completely:",
+    "translate": "درک کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcom/ukcompl021.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/com/compr/comprehend.mp3",
+    "different_meanings": [],
+    "pron": "/ˌkɒm.prɪˈhend/",
+    "isCambridge": true
+  },
+  {
+    "title": "Wholly",
+    "url": "https://dictionary.cambridge.org/dictionary/english/wholly",
+    "role": "adverb",
+    "example": [
+      "I wasn't wholly convinced by her explanation.",
+      "That's a wholly different issue.",
+      "a machine that is wholly British-made",
+      "I didn’t think her explanation was wholly truthful."
+    ],
+    "description": "completely:",
+    "translate": "کاملاً",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwho/ukwhodu013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/w/who/wholl/wholly.mp3",
+    "different_meanings": [],
+    "pron": "/ˈhəʊl.li/",
+    "isCambridge": true
+  },
+  {
     "title": "Chairman",
     "url": "https://dictionary.cambridge.org/dictionary/english/chairman",
     "role": "noun",
@@ -14195,6 +15482,35 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rud/rudde/rudder.mp3",
     "different_meanings": [],
     "pron": "/ˈrʌd.ər/",
+    "isCambridge": true
+  },
+  {
+    "title": "Minister",
+    "url": "https://dictionary.cambridge.org/dictionary/english/minister",
+    "role": "noun",
+    "example": [
+      "the foreign/health minister",
+      "the Minister of/for Education",
+      "a minister at the local Baptist church",
+      "the Belgian minister in Madrid",
+      "the foreign minister",
+      "Social justice has concerned him since his first ministerial assignment.",
+      "He began ministering to prisoners.",
+      "The new factory was opened by the minister of trade.",
+      "the finance/environment/transport, etc. minister"
+    ],
+    "description": "a member of the government in Britain and many other countries who is in charge of a particular department or has an important position in it:",
+    "translate": "وزیر",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmin/ukminim007.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/m/min/minis/minister.mp3",
+    "different_meanings": [
+      "noun - POLITICIAN",
+      "noun - IN CHURCH",
+      "noun - COUNTRY'S REPRESENTATIVE",
+      "verb - PRIEST",
+      "noun - PRIEST"
+    ],
+    "pron": "/ˈmɪn.ɪ.stər/",
     "isCambridge": true
   },
   {
@@ -14369,6 +15685,44 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hum/hummi/hummingbird.mp3",
     "different_meanings": [],
     "pron": "/ˈhʌm.ɪŋ.bɜːd/"
+  },
+  {
+    "title": "Shaft",
+    "url": "https://dictionary.cambridge.org/dictionary/english/shaft",
+    "role": "noun",
+    "example": [
+      "shaft of His fingers tightened around the shaft of the golf club.",
+      "the drive shaft of a car",
+      "the propeller shaft of an aircraft",
+      "A shaft of (sun)light came through the open door.",
+      "a lift shaft",
+      "a ventilation/air shaft",
+      "a well shaft",
+      "shaft of John came out with an unexpected shaft of wit/wisdom.",
+      "give someone the shaft His boss gave him the shaft by firing him just before he would have gotten a bonus.",
+      "She was shafted by her agent over the film rights to her book.",
+      "Energy from the wheels turns the shafts and produces electricity.",
+      "The feathers at the end of the arrow’s shaft help it travel in a straight line.",
+      "Sliced beef was curled around a scallion shaft, then fried.",
+      "a mine shaft",
+      "an elevator shaft",
+      "The window looks out on an air shaft.",
+      "Corporations pay almost nothing while taxpayers get the shaft."
+    ],
+    "description": "a pole or rod that forms the handle of a tool or weapon:",
+    "translate": "شفت",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksex/uksexua024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sha/shaft/shaft.mp3",
+    "different_meanings": [
+      "noun - POLE",
+      "noun - LONG OBJECT",
+      "noun - REMARK",
+      "noun - UNFAIR TREATMENT",
+      "noun - PASSAGE",
+      "noun - TREATMENT"
+    ],
+    "pron": "/ʃɑːft/",
+    "isCambridge": true
   },
   {
     "title": "Grain",
@@ -14860,6 +16214,24 @@
     "pron": "/prəˈpel.ər/"
   },
   {
+    "title": "Refurbishment",
+    "url": "https://dictionary.cambridge.org/dictionary/english/refurbishment",
+    "role": "noun",
+    "example": [
+      "The museum has undergone a £15 million refurbishment.",
+      "€55m is going towards the cost of the acquisition, with the remainder directed at the refurbishment of existing hotels.",
+      "The store is currently closed for refurbishment.",
+      "The firm specializes in the refurbishment of industrial plant and equipment."
+    ],
+    "description": "work such as painting, repairing, and cleaning that is done to make a building look new again:",
+    "translate": "مرمت",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukref/ukrefre012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usr/usred/usredne028.mp3",
+    "different_meanings": [],
+    "pron": "/ˌriːˈfɜː.bɪʃ.mənt/",
+    "isCambridge": true
+  },
+  {
     "title": "Pavement",
     "url": "https://dictionary.cambridge.org/dictionary/english/pavement",
     "role": "noun",
@@ -15042,6 +16414,33 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/scu/sculp/sculpture.mp3",
     "different_meanings": [],
     "pron": "/ˈskʌlp.tʃər/"
+  },
+  {
+    "title": "Profound",
+    "url": "https://dictionary.cambridge.org/dictionary/english/profound",
+    "role": "adjective",
+    "example": [
+      "His mother's death when he was aged six had a very profound effect on him.",
+      "The invention of the contraceptive pill brought about profound changes in the lives of women.",
+      "Those two lines of poetry express perfectly the profound sadness of loss.",
+      "My grandfather has a profound mistrust of anything new or foreign.",
+      "There was a note of profound irritation in his voice.",
+      "profound truths/wisdom",
+      "The review that I read said that it was \"a thoughtful and profound film\".",
+      "\"Dying is easy - it's living that's the problem.\" \"That was very profound of you, Steven.\"",
+      "The speech had a profound influence on her.",
+      "You’re touching on a very profound question."
+    ],
+    "description": "felt or experienced very strongly or in an extreme way:",
+    "translate": "عمیق",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpro/ukprofi013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pro/profo/profound.mp3",
+    "different_meanings": [
+      "adjective - EXTREME",
+      "adjective - SHOWING UNDERSTANDING"
+    ],
+    "pron": "/prəˈfaʊnd/",
+    "isCambridge": true
   },
   {
     "title": "Leisurely",
@@ -15532,6 +16931,26 @@
     "pron": "/trænˈzɪʃ.ən.əl/"
   },
   {
+    "title": "Contradict",
+    "url": "https://dictionary.cambridge.org/dictionary/english/contradict",
+    "role": "verb",
+    "example": [
+      "If you're both going to lie, at least stick to the same story and don't contradict each other!",
+      "contradict yourself He kept contradicting himself when we were arguing - I think he was a bit confused.",
+      "How dare you contradict (me)!",
+      "Recent evidence has contradicted established theories on this subject.",
+      "Her testimony contradicted the policeman’s testimony, and the jury had to decide who was telling the truth.",
+      "We received contradictory accounts about the success of the military campaign."
+    ],
+    "description": "(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong:",
+    "translate": "مغایر بودن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconti020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/con/contr/contradict.mp3",
+    "different_meanings": [],
+    "pron": "/ˌkɒn.trəˈdɪkt/",
+    "isCambridge": true
+  },
+  {
     "title": "Indigenous",
     "url": "https://dictionary.cambridge.org/dictionary/english/indigenous",
     "role": "adjective",
@@ -15572,6 +16991,22 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70970.mp3",
     "different_meanings": [],
     "pron": "/kənˈsek.jə.tɪv/",
+    "isCambridge": true
+  },
+  {
+    "title": "Outlandish",
+    "url": "https://dictionary.cambridge.org/dictionary/english/outlandish",
+    "role": "adjective",
+    "example": [
+      "an outlandish hairstyle/outfit",
+      "She liked to dress in outlandish clothes."
+    ],
+    "description": "strange and unusual and difficult to accept or like:",
+    "translate": "غلیظ",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uko/ukout/ukoutdo024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75350.mp3",
+    "different_meanings": [],
+    "pron": "/ˌaʊtˈlæn.dɪʃ/",
     "isCambridge": true
   },
   {
@@ -15710,6 +17145,33 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/l/lea/lease/lease.mp3",
     "different_meanings": [],
     "pron": "/liːs/",
+    "isCambridge": true
+  },
+  {
+    "title": "Outlay",
+    "url": "https://dictionary.cambridge.org/dictionary/english/outlay",
+    "role": "noun",
+    "example": [
+      "For an initial outlay of $2,000 to buy the equipment, you can earn up to $500 a month if the product sells well.",
+      "Few are able to afford the cash outlay.",
+      "In the first year we outlaid thousands of dollars on computers.",
+      "Employees are not required to outlay any of their own money.",
+      "This year’s advertising outlay was over $250,000.",
+      "Investors can receive tax relief of up to 40% on their outlay.",
+      "an outlay of $150m/£300/€580m, etc. The bank is currently receiving an 8.9% stake for an outlay of £10 million.",
+      "outlay for/on sth Total outlay on the health sector is budgeted at 18.34 billion rupees.",
+      "an initial/an original/a total outlay Initial outlay for a franchise is approximately £45,000.",
+      "recover/recoup your outlay Casinos must not only recoup their outlay, they must also make a profit.",
+      "Going into the wine business involves a large financial outlay.",
+      "an annual/a monthly outlay",
+      "a big/huge/small outlay"
+    ],
+    "description": "an amount of money spent for a particular purpose, especially as a first investment in something:",
+    "translate": "هزینه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uko/ukout/ukoutdo030.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75353.mp3",
+    "different_meanings": [],
+    "pron": "/ˈaʊt.leɪ/",
     "isCambridge": true
   },
   {
@@ -16198,6 +17660,27 @@
     "pron": "/ˌrez.ɪˈden.ʃəl/"
   },
   {
+    "title": "Internalize",
+    "url": "https://dictionary.cambridge.org/dictionary/english/internalize",
+    "role": "verb",
+    "example": [
+      "He had not expected the people so readily to internalize the values of democracy.",
+      "Many women tend to internalize their anxiety and distress.",
+      "A fair energy market would include a greater emphasis on internalizing environmental costs.",
+      "You will get more willingness to sue when the costs of trial aren't internalized by the party making the decision to go to trial.",
+      "He had not expected the people so readily to internalize the values of democracy.",
+      "He usually internalized his anger, rather than expressing it to anyone.",
+      "The cost of pollution and other effects on the environment needs to be internalized and reflected in the price of goods or services, as well as normal production costs."
+    ],
+    "description": "to accept or absorb an idea, opinion, belief, etc. so that it becomes part of your character:",
+    "translate": "درونی کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukint/ukinter128.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usi/usint/usinter010.mp3",
+    "different_meanings": [],
+    "pron": "/ɪnˈtɜː.nəl.aɪz/",
+    "isCambridge": true
+  },
+  {
     "title": "Celestial",
     "url": "https://dictionary.cambridge.org/dictionary/english/celestial",
     "role": "adjective",
@@ -16569,6 +18052,50 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75648.mp3",
     "different_meanings": [],
     "pron": "/ˈed.ə.bəl/",
+    "isCambridge": true
+  },
+  {
+    "title": "Herd",
+    "url": "https://dictionary.cambridge.org/dictionary/english/herd",
+    "role": "noun",
+    "example": [
+      "a herd of cattle/elephants/goats",
+      "Poor Janine - she just follows the herd (= does what all the other people are doing).",
+      "An old woman was herding the goats.",
+      "a herd of elephants",
+      "The teachers herded the children into buses."
+    ],
+    "description": "a large group of animals of the same type that live and feed together:",
+    "translate": "گله",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhen/ukhenpe021.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/her/herd_/herd.mp3",
+    "different_meanings": [],
+    "pron": "/hɜːd/",
+    "isCambridge": true
+  },
+  {
+    "title": "Polarise",
+    "url": "https://dictionary.cambridge.org/dictionary/english/polarise",
+    "role": "verb",
+    "example": [
+      "The issue has polarized the nation.",
+      "Two developments have polarized the debate.",
+      "To polarize the light there is a screen directly in front of the projector.",
+      "A polarizing filter is a filter which transmits only light polarized in a specific dimension.",
+      "Car manufacturers do not polarize the glass in windscreens for safety reasons.",
+      "[ T ] The property tax issue polarized the city council.",
+      "The subject of interest rates continues to polarize the business community."
+    ],
+    "description": "to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups:",
+    "translate": "قطبی کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpol/ukpolar004.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pol/polar/polarize.mp3",
+    "different_meanings": [
+      "verb - DIVIDE",
+      "verb - DIVIDE OPINIONS",
+      "verb - LIGHT"
+    ],
+    "pron": "/ˈpəʊ.lə.raɪz/",
     "isCambridge": true
   },
   {
@@ -17934,6 +19461,26 @@
     "pron": "/ˈʌp.saɪd/"
   },
   {
+    "title": "Harbor",
+    "url": "https://dictionary.cambridge.org/dictionary/english/harbor",
+    "role": "noun",
+    "example": [
+      "He harbored the suspicion that someone in the agency was spying for the enemy.",
+      "They were accused of harboring a fugitive."
+    ],
+    "description": "US spelling of \nharbour",
+    "translate": "بندرگاه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhap/ukhapha017.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/har/harbo/harbor.mp3",
+    "different_meanings": [
+      "verb - HIDE",
+      "verb - HAVE IN MIND",
+      "noun - WATER"
+    ],
+    "pron": "/ˈhɑː.bər/",
+    "isCambridge": true
+  },
+  {
     "title": "Criteria",
     "url": "https://dictionary.cambridge.org/dictionary/english/criteria",
     "role": "Role not found",
@@ -18352,6 +19899,19 @@
     "pron": "/ˈves.əl/"
   },
   {
+    "title": "Acquisiton",
+    "url": "https://dictionary.cambridge.org/dictionary/english/acquisiton",
+    "role": "Role not found",
+    "example": ["Example not found"],
+    "description": "Description not found",
+    "translate": "کسب",
+    "pronounce_audio_uk_link": "Audio not found",
+    "pronounce_audio_us_link": "Audio not found",
+    "different_meanings": [],
+    "pron": "Pron not found",
+    "isCambridge": true
+  },
+  {
     "title": "Shortage",
     "url": "https://dictionary.cambridge.org/dictionary/english/Shortage",
     "role": "noun",
@@ -18684,6 +20244,28 @@
     "pron": "/ˈlɪt.ər/"
   },
   {
+    "title": "Affordable",
+    "url": "https://dictionary.cambridge.org/dictionary/english/affordable",
+    "role": "adjective",
+    "example": [
+      "nice clothes at affordable prices",
+      "affordable housing They have increased their provision of affordable housing in order to make home ownership accessible to buyers who would otherwise be unable to buy.",
+      "According to the guidelines, ten percent of the dwellings in the development must be affordable.",
+      "Affordable housing isn’t enough – we also need job opportunities.",
+      "They are meeting consumer demand for fashionable products at affordable prices.",
+      "affordable homes.",
+      "keep sth/make sth affordable The Prius is heavily subsidised by Toyota to keep it affordable.",
+      "affordable for/to sb Will space flight ever be affordable for the masses?"
+    ],
+    "description": "not expensive:",
+    "translate": "مقرون به صرفه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukaff/ukaffir012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/aff/affor/affordable.mp3",
+    "different_meanings": [],
+    "pron": "/əˈfɔː.də.bəl/",
+    "isCambridge": true
+  },
+  {
     "title": "Tobacco",
     "url": "https://dictionary.cambridge.org/dictionary/english/tobacco",
     "role": "noun",
@@ -18718,6 +20300,22 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/per/perse/perseverance.mp3",
     "different_meanings": [],
     "pron": "/ˌpɜː.sɪˈvɪə.rəns/"
+  },
+  {
+    "title": "Hung",
+    "url": "https://dictionary.cambridge.org/dictionary/english/hung",
+    "role": "verb",
+    "example": [
+      "hung parliament The general election in Britain was expected to result in a hung parliament.",
+      "hung jury The trial ended in a hung jury."
+    ],
+    "description": "past simple and past participle of\nhang",
+    "translate": "چرب",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhun/ukhunch009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hun/hung_/hung.mp3",
+    "different_meanings": [],
+    "pron": "/hʌŋ/",
+    "isCambridge": true
   },
   {
     "title": "Disability",
@@ -18879,6 +20477,41 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usd/usdow/usdownt001.mp3",
     "different_meanings": [],
     "pron": "/ˈdaʊnˌtrɒd.ən/"
+  },
+  {
+    "title": "Reckon",
+    "url": "https://dictionary.cambridge.org/dictionary/english/reckon",
+    "role": "verb",
+    "example": [
+      "I reckon it's going to rain.",
+      "[ + (that) ] How much do you reckon (that) it's going to cost?",
+      "\"Can you fix my car today?\" \"I reckon not/so (= probably not/probably).\"",
+      "I don't reckon much to (US of) their chances of winning (= I do not think they will win).",
+      "She was widely reckoned (to be) the best actress of her generation.",
+      "Angela quickly reckoned the amount on her fingers.",
+      "The inflation rate is now reckoned to be 10 percent.",
+      "Do you reckon this watch has a little value?",
+      "[ + that clause ] Brusca reckons that the value of all goods and services produced declined last quarter.",
+      "She reckoned they were both equally responsible.",
+      "She was widely reckoned to be the best actress of her generation.",
+      "I reckon I better get goin’ now.",
+      "By my reckoning, we should get there in another hour or so.",
+      "Fees are reckoned in Euros but can be paid in any currency.",
+      "The authors reckon that public sector debt is over 65% of GDP.",
+      "sth is reckoned to be sth The market value is reckoned to be 10 million dollars.",
+      "The deal is reckoned to be worth $14.4 billion."
+    ],
+    "description": "to think or believe:",
+    "translate": "حساب کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrec/ukrecep025.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rec/recko/reckon.mp3",
+    "different_meanings": [
+      "verb - THINK",
+      "verb - CALCULATE",
+      "verb - CONSIDER"
+    ],
+    "pron": "/ˈrek.ən/",
+    "isCambridge": true
   },
   {
     "title": "Grunt",
@@ -19090,6 +20723,39 @@
     "isCambridge": true
   },
   {
+    "title": "Grasp",
+    "url": "https://dictionary.cambridge.org/dictionary/english/grasp",
+    "role": "verb",
+    "example": [
+      "Rosie suddenly grasped my hand.",
+      "We must grasp every opportunity to strengthen economic ties with other countries.",
+      "I think I managed to grasp the main points of the lecture.",
+      "The government has acknowledged that homelessness is a problem but it has failed to grasp the scale of the problem.",
+      "He shook my hand with a very firm grasp.",
+      "within your grasp The presidency at last looked within her grasp (= it looked possible that she might become president).",
+      "beyond your grasp Why is success always beyond my grasp (= impossible to get)?",
+      "slip from your grasp The gold medal slipped from his grasp (= he was unable to get it) in the last moments of the race.",
+      "lose your grasp on something I sometimes think that he's losing his grasp on reality (= his ability to judge what is real and what is not).",
+      "He has a good grasp of the issues.",
+      "[ T ] I grasped his arm to keep from falling.",
+      "It was hard to grasp what the professor was getting at.",
+      "A full partnership at last seemed to be within her grasp."
+    ],
+    "description": "to quickly take something in your hand(s) and hold it firmly:",
+    "translate": "درک کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukg/ukgra/ukgranu020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/g/gra/grasp/grasp.mp3",
+    "different_meanings": [
+      "verb - TAKE",
+      "noun - HOLD",
+      "verb - UNDERSTAND",
+      "verb - HOLD",
+      "noun - UNDERSTANDING"
+    ],
+    "pron": "/ɡrɑːsp/",
+    "isCambridge": true
+  },
+  {
     "title": "Infection",
     "url": "https://dictionary.cambridge.org/dictionary/english/infection",
     "role": "noun",
@@ -19169,6 +20835,38 @@
     "pron": "/ˈræn.sæk/"
   },
   {
+    "title": "Rack",
+    "url": "https://dictionary.cambridge.org/dictionary/english/rack",
+    "role": "noun",
+    "example": [
+      "a vegetable rack",
+      "a plate rack",
+      "a luggage rack",
+      "The butcher prepared a rack of pork.",
+      "We're having rack of lamb for dinner.",
+      "go to rack and ruin The whole farm was going to rack and ruin.",
+      "Even at the end, when cancer racked his body, he was calm and cheerful.",
+      "The dog was already racked by/with the pains of old age.",
+      "He was racked by/with doubts/guilt.",
+      "a bike rack",
+      "a towel rack",
+      "Even near the end, when cancer racked his body, he remained hopeful."
+    ],
+    "description": "a frame or shelf, often formed of bars, that is used to hold things:",
+    "translate": "رک",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrab/ukrabbi023.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rac/rack_/rack.mp3",
+    "different_meanings": [
+      "noun - FRAME",
+      "noun - MACHINE",
+      "noun - MEAT",
+      "noun - DECAY",
+      "verb - CAUSE PAIN"
+    ],
+    "pron": "/ræk/",
+    "isCambridge": true
+  },
+  {
     "title": "Corridor",
     "url": "https://dictionary.cambridge.org/dictionary/english/Corridor",
     "role": "noun",
@@ -19197,6 +20895,32 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/ust/uston/ustones013.mp3",
     "different_meanings": [],
     "pron": "/ˈtuːθ.peɪst/"
+  },
+  {
+    "title": "Knit",
+    "url": "https://dictionary.cambridge.org/dictionary/english/knit",
+    "role": "verb",
+    "example": [
+      "She's forever knitting.",
+      "She's busy knitting baby clothes.",
+      "[ + two objects ] My granny knitted me some gloves/knitted some gloves for me.",
+      "Knit one, purl one.",
+      "knit (together) The broken bone should begin to knit (together) in a few days.",
+      "a very close-knit family",
+      "Be warm and chic in cosy cashmere knits.",
+      "A man in a knit cap approached.",
+      "I grabbed my jeans and added a knit top.",
+      "When our first baby was born she made us the most beautiful knit blanket.",
+      "[ T ] She’s knitting a scarf for her daughter.",
+      "[ I ] She’s got a break in this bone, but the ends of the bones will knit without the need for surgery."
+    ],
+    "description": "to make clothes, etc. by using two long needles to connect wool or another type of thread into joined rows:",
+    "translate": "گره زدن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukk/ukkne/ukkneel016.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/k/kni/knit_/knit.mp3",
+    "different_meanings": ["verb - JOIN", "verb - MAKE CLOTHES"],
+    "pron": "/nɪt/",
+    "isCambridge": true
   },
   {
     "title": "Vacancy",
@@ -19658,32 +21382,6 @@
     "pron": "/faɪn/"
   },
   {
-    "title": "Encounter",
-    "url": "https://dictionary.cambridge.org/dictionary/english/encounter",
-    "role": "noun",
-    "example": [
-      "encounter with I had an alarming encounter with a wild pig.",
-      "encounter between This meeting will be the first encounter between the party leaders since the election.",
-      "encounter with In their last encounter with Italy, England won 3–2.",
-      "On their way home they encountered a woman selling flowers.",
-      "When did you first encounter these difficulties?",
-      "The army is reported to be encountering considerable resistance.",
-      "In the kitchen I encountered a woman I had never seen before.",
-      "He was shocked by the hostility he encountered.",
-      "My first encounter with death was when Abraham died.",
-      "We encountered a problem with the fuel pump during safety tests.",
-      "This is the first time I have encountered racism at work.",
-      "Customer service representatives are trained to handle encounters with angry customers."
-    ],
-    "description": "a meeting, especially one that happens by chance:",
-    "translate": "مواجه شدن",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukenc/ukencas018.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71529.mp3",
-    "different_meanings": ["verb - EXPERIENCE", "verb - MEET"],
-    "pron": "/ɪnˈkaʊn.tər/",
-    "isCambridge": true
-  },
-  {
     "title": "Ecological",
     "url": "https://dictionary.cambridge.org/dictionary/english/ecological",
     "role": "adjective",
@@ -19812,6 +21510,28 @@
     "isCambridge": true
   },
   {
+    "title": "Congestion",
+    "url": "https://dictionary.cambridge.org/dictionary/english/congestion",
+    "role": "noun",
+    "example": [
+      "These facilities are designed to ease the congestion of emergency rooms.",
+      "Cases are being repeatedly delayed because of congestion in the courts.",
+      "The (traffic) congestion in the city gets worse during the summer.",
+      "Major airports will need new runways to relieve congestion.",
+      "This spray helps to ease nasal congestion.",
+      "Symptoms include sneezing, congestion, and runny nose.",
+      "He took to bed for weeks each winter with chest congestion.",
+      "Congestion in the lungs or other vital organs of the body tends to destroy the tissues of the affected parts."
+    ],
+    "description": "a situation in which a place is too blocked or crowded, causing difficulties:",
+    "translate": "احتقان",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/con/conge/congestion.mp3",
+    "different_meanings": [],
+    "pron": "/kənˈdʒes.tʃən/",
+    "isCambridge": true
+  },
+  {
     "title": "Widespread",
     "url": "https://dictionary.cambridge.org/dictionary/english/Widespread",
     "role": "adjective",
@@ -19872,6 +21592,25 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/g/gla/glaci/glacier.mp3",
     "different_meanings": [],
     "pron": "/ˈɡlæs.i.ər/"
+  },
+  {
+    "title": "Symptom",
+    "url": "https://dictionary.cambridge.org/dictionary/english/symptom",
+    "role": "noun",
+    "example": [
+      "He's complaining of all the usual flu symptoms - a high temperature, headache, and so on.",
+      "He's been HIV-positive for six years, but just recently he's started to develop the symptoms of AIDS.",
+      "It's her feeling that the recent outbreaks of violence are a symptom of the dissatisfaction that is currently affecting our society.",
+      "Muscle aches and fever are symptoms of the flu.",
+      "This endless debate is a symptom of our lack of confidence."
+    ],
+    "description": "any feeling of illness or physical or mental change that is caused by a particular disease:",
+    "translate": "نشان",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksym/uksympa008.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sym/sympt/symptom.mp3",
+    "different_meanings": [],
+    "pron": "/ˈsɪmp.təm/",
+    "isCambridge": true
   },
   {
     "title": "Paid off",
@@ -20085,6 +21824,19 @@
     "pronounce_audio_us_link": "Audio not found",
     "different_meanings": [],
     "pron": "Pron not found",
+    "isCambridge": true
+  },
+  {
+    "title": "Pavilion",
+    "url": "https://dictionary.cambridge.org/dictionary/english/pavilion",
+    "role": "noun",
+    "example": ["the West Pavilion of Central General Hospital"],
+    "description": "a building near a sports field, especially one where cricket is played, used by the players and sometimes by people watching the game",
+    "translate": "غرفه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpau/ukpauci009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pav/pavil/pavilion.mp3",
+    "different_meanings": ["noun - BUILDING", "noun - TEMPORARY STRUCTURE"],
+    "pron": "/pəˈvɪl.jən/",
     "isCambridge": true
   },
   {
@@ -20800,6 +22552,22 @@
     "isCambridge": true
   },
   {
+    "title": "Escalator",
+    "url": "https://dictionary.cambridge.org/dictionary/english/escalator",
+    "role": "noun",
+    "example": [
+      "up escalator I'll meet you by the up escalator on the second floor.",
+      "down escalator He ran after her on the down escalator before catching up with her on the platform."
+    ],
+    "description": "a set of stairs moved up or down by electric power on which people can stand and be taken from one level of a building to another, especially in shops, railway stations, and airports:",
+    "translate": "پله برقی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukero/ukeroge028.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/esc/escal/escalator.mp3",
+    "different_meanings": [],
+    "pron": "/ˈes.kə.leɪ.tər/",
+    "isCambridge": true
+  },
+  {
     "title": "Squeeze",
     "url": "https://dictionary.cambridge.org/dictionary/english/squeeze",
     "role": "verb",
@@ -21283,6 +23051,25 @@
     "isCambridge": true
   },
   {
+    "title": "Depict",
+    "url": "https://dictionary.cambridge.org/dictionary/english/depict",
+    "role": "verb",
+    "example": [
+      "Her paintings depict the lives of ordinary people in the last century.",
+      "depict someone as something/doing something In the book, he depicts his father as a tyrant.",
+      "[ + -ing verb ] People were shocked by the advertisement, which depicted a woman beating her husband.",
+      "The movie depicts his father as a tyrant.",
+      "[ C ] It’s a wonderful depiction of a female friendship."
+    ],
+    "description": "to represent or show something in a picture or story:",
+    "translate": "نشان دادن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukden/ukdensi028.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75583.mp3",
+    "different_meanings": [],
+    "pron": "/dɪˈpɪkt/",
+    "isCambridge": true
+  },
+  {
     "title": "Regulation",
     "url": "https://dictionary.cambridge.org/dictionary/english/regulation",
     "role": "noun",
@@ -21619,6 +23406,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75364.mp3",
     "different_meanings": [],
     "pron": "/ˌaʊt.pəˈfɔːm/"
+  },
+  {
+    "title": "Intricatend",
+    "url": "https://dictionary.cambridge.org/dictionary/english/intricatend",
+    "role": "Role not found",
+    "example": ["Example not found"],
+    "description": "Description not found",
+    "translate": "درون بادی",
+    "pronounce_audio_uk_link": "Audio not found",
+    "pronounce_audio_us_link": "Audio not found",
+    "different_meanings": [],
+    "pron": "Pron not found",
+    "isCambridge": true
   },
   {
     "title": "Flock",
@@ -21981,6 +23781,26 @@
     "pron": "/fleər/"
   },
   {
+    "title": "Deviation",
+    "url": "https://dictionary.cambridge.org/dictionary/english/deviation",
+    "role": "noun",
+    "example": [
+      "deviation from Any deviation from the party philosophy is seen as betrayal.",
+      "We do not expect any significant deviations from the business plan.",
+      "The deviation of a value of x is the difference between it and the mean of the sample.",
+      "Each deviation is then squared.",
+      "The letter cited 'significant deviations from current good manufacturing practice'.",
+      "In a recent analysis of local temperature changes, Reno ranked first by amount of deviation from the 30-year average."
+    ],
+    "description": "the action of being or doing something that is different from the usual or common way of behaving:",
+    "translate": "انحراف",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdet/ukdetou029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dev/devia/deviation.mp3",
+    "different_meanings": [],
+    "pron": "/ˌdiː.viˈeɪ.ʃən/",
+    "isCambridge": true
+  },
+  {
     "title": "Carnivore",
     "url": "https://dictionary.cambridge.org/dictionary/english/carnivore",
     "role": "noun",
@@ -22058,6 +23878,31 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rec/recon/reconcile.mp3",
     "different_meanings": [],
     "pron": "/ˈrek.ən.saɪl/",
+    "isCambridge": true
+  },
+  {
+    "title": "Brisk",
+    "url": "https://dictionary.cambridge.org/dictionary/english/brisk",
+    "role": "adjective",
+    "example": [
+      "a brisk walk",
+      "He set a brisk pace and we struggled to keep up.",
+      "Her tone on the phone was brisk (= she spoke quickly and used few words) and businesslike.",
+      "I took a brisk walk.",
+      "Business has been brisk lately.",
+      "A brisk (= cold but pleasant) wind blew across the field.",
+      "She moved briskly toward the car.",
+      "In the office, he was brisk and businesslike.",
+      "Oil prices added over 2% in brisk trading yesterday.",
+      "American manufacturing was doing brisk business last month.",
+      "The product has been selling briskly despite the recession."
+    ],
+    "description": "quick, energetic, and active:",
+    "translate": "سرسره",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbri/ukbriga025.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/b/bri/brisk/brisk.mp3",
+    "different_meanings": [],
+    "pron": "/brɪsk/",
     "isCambridge": true
   },
   {
@@ -22612,6 +24457,22 @@
     "isCambridge": true
   },
   {
+    "title": "Underlie",
+    "url": "https://dictionary.cambridge.org/dictionary/english/underlie",
+    "role": "verb",
+    "example": [
+      "Psychological problems very often underlie apparently physical disorders.",
+      "More fundamental economic problems may underlie last week’s stock market slide."
+    ],
+    "description": "to be a hidden cause of or strong influence on something:",
+    "translate": "زیرین",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uku/ukund/ukunder013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/und/under/underlie.mp3",
+    "different_meanings": [],
+    "pron": "/ˌʌn.dəˈlaɪ/",
+    "isCambridge": true
+  },
+  {
     "title": "Stimulate",
     "url": "https://dictionary.cambridge.org/dictionary/english/Stimulate",
     "role": "verb",
@@ -22696,6 +24557,39 @@
       "verb - COOK"
     ],
     "pron": "/stjuː/",
+    "isCambridge": true
+  },
+  {
+    "title": "Penetrate",
+    "url": "https://dictionary.cambridge.org/dictionary/english/penetrate",
+    "role": "verb",
+    "example": [
+      "Amazingly, the bullet did not penetrate his brain.",
+      "In a normal winter, the frost penetrates deeply enough to kill off insect eggs in the soil.",
+      "The organization had been penetrated by a spy.",
+      "The company has been successful in penetrating overseas markets this year (= it has started selling its products in them).",
+      "The Australians seemed able to penetrate the South African defence at will.",
+      "They contained the opposition for long periods but were unable to penetrate.",
+      "These changes had not yet penetrated as far west as the mountains of Merioneth.",
+      "Our eyes couldn't penetrate the dark/the gloom of the inner cave.",
+      "It's hard to penetrate her mind.",
+      "He penetrates deeper into the artist's life in the second volume of his autobiography.",
+      "[ I ] The drill isn’t sharp enough to penetrate into the rock.",
+      "[ T ] Women have begun to penetrate a lot of fields that were dominated by men for centuries.",
+      "[ I ] Her writing penetrated to the heart of contemporary life.",
+      "The program’s penetration in Utah schools varies from district to district.",
+      "The company is beginning to penetrate Asian markets."
+    ],
+    "description": "to move into or through something:",
+    "translate": "نفوذ کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpee/ukpeewe029.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75861.mp3",
+    "different_meanings": [
+      "verb - MOVE INTO",
+      "verb - UNDERSTAND",
+      "verb - MOVE"
+    ],
+    "pron": "/ˈpen.ɪ.treɪt/",
     "isCambridge": true
   },
   {
@@ -22869,6 +24763,27 @@
     "pron": "/əˈses/"
   },
   {
+    "title": "Cater",
+    "url": "https://dictionary.cambridge.org/dictionary/english/cater",
+    "role": "verb",
+    "example": [
+      "I'm catering for twelve on Sunday - the whole family is coming.",
+      "Which firm will be catering at the wedding reception?",
+      "US Who catered your party?",
+      "[ T ] Who catered your party?",
+      "an experienced caterer",
+      "Delegates can have meals catered by the hotel while the conference is underway.",
+      "cater for sth There is plenty of work to be had catering for weddings and parties"
+    ],
+    "description": "to provide, and sometimes serve, food:",
+    "translate": "پذیرایی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcat/ukcatch012.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cat/cater/cater.mp3",
+    "different_meanings": [],
+    "pron": "/ˈkeɪ.tər/",
+    "isCambridge": true
+  },
+  {
     "title": "Prop",
     "url": "https://dictionary.cambridge.org/dictionary/english/Prop",
     "role": "verb",
@@ -23004,6 +24919,29 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/t/tun/tundr/tundra.mp3",
     "different_meanings": [],
     "pron": "/ˈtʌn.drə/"
+  },
+  {
+    "title": "Premises",
+    "url": "https://dictionary.cambridge.org/dictionary/english/premises",
+    "role": "noun",
+    "example": [
+      "The company is relocating to new premises.",
+      "There is no smoking allowed anywhere on school premises.",
+      "The ice cream is made on the premises (= in the building where it is sold).",
+      "The security guards escorted the protesters off (= away from) the premises.",
+      "The bread sold here is baked on the premises.",
+      "Training is mainly delivered at the employer's premises.",
+      "off/on the premises Everything is made right here on the premises.",
+      "The new premises, staffed by a team of five, will aim to boost sales in the Chinese and Asian markets.",
+      "business/commercial/company premises"
+    ],
+    "description": "the land and buildings owned by someone, especially by a company or organization:",
+    "translate": "محل",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpre/ukpremi004.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pre/premi/premises.mp3",
+    "different_meanings": [],
+    "pron": "/ˈprem.ɪ.sɪz/",
+    "isCambridge": true
   },
   {
     "title": "Wedge",
@@ -23259,6 +25197,32 @@
     "isCambridge": true
   },
   {
+    "title": "Vein",
+    "url": "https://dictionary.cambridge.org/dictionary/english/vein",
+    "role": "noun",
+    "example": [
+      "A rich vein of iron ore was found in the hillside.",
+      "A vein of satirical anger runs through all his work.",
+      "In its bid to be elected, the party is attempting to tap (= use) an underlying vein of nationalism in the country.",
+      "The opening scene is very violent, and the rest of the movie continues in (a) similar vein.",
+      "After laughing about the photograph, they began to talk in (a) more serious vein about the damaging effect it could have on his career.",
+      "a vein of iron ore",
+      "She published many novels and stories in the romantic vein then popular."
+    ],
+    "description": "a tube that carries blood to the heart from the other parts of the body",
+    "translate": "رگ",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukv/ukvag/ukvagra005.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/v/vai/vain_/vain.mp3",
+    "different_meanings": [
+      "noun - QUALITY",
+      "noun - MOOD",
+      "noun - LAYER",
+      "noun - TUBE"
+    ],
+    "pron": "/veɪn/",
+    "isCambridge": true
+  },
+  {
     "title": "Decisive",
     "url": "https://dictionary.cambridge.org/dictionary/english/decisive",
     "role": "adjective",
@@ -23278,6 +25242,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75522.mp3",
     "different_meanings": [],
     "pron": "/dɪˈsaɪ.sɪv/",
+    "isCambridge": true
+  },
+  {
+    "title": "Empathy",
+    "url": "https://dictionary.cambridge.org/dictionary/english/empathy",
+    "role": "noun",
+    "example": ["He loves children and has a certain empathy with them."],
+    "description": "the ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation",
+    "translate": "همدی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukemo/ukemolu013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/emp/empat/empathy.mp3",
+    "different_meanings": [],
+    "pron": "/ˈem.pə.θi/",
     "isCambridge": true
   },
   {
@@ -23320,6 +25297,28 @@
       "noun - OF A PLACE"
     ],
     "pron": "/ˌel.ɪˈveɪ.ʃən/"
+  },
+  {
+    "title": "Catering",
+    "url": "https://dictionary.cambridge.org/dictionary/english/catering",
+    "role": "noun",
+    "example": [
+      "I've always wanted to work in catering.",
+      "Who is going to do the catering for the wedding?",
+      "a high-class catering company",
+      "I wanted to work in catering, and until I was 21 I worked as a chef in hotels and bars.",
+      "The airline is proud of the quality of its in-flight catering.",
+      "Catering costs have risen sharply in the last twelve months.",
+      "a catering company/business/group",
+      "the catering trade/industry"
+    ],
+    "description": "any job making or serving food :",
+    "translate": "پذیرایی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/c/cal/cald4/cald4uk0249.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us0354.mp3",
+    "different_meanings": [],
+    "pron": "/ˈkeɪ.tər.ɪŋ/",
+    "isCambridge": true
   },
   {
     "title": "Facets",
@@ -23704,6 +25703,25 @@
       "noun - CONTROL"
     ],
     "pron": "/əˈsʌmp.ʃən/",
+    "isCambridge": true
+  },
+  {
+    "title": "Linen",
+    "url": "https://dictionary.cambridge.org/dictionary/english/linen",
+    "role": "noun",
+    "example": [
+      "a linen jacket",
+      "the crumpled charm of linen",
+      "bed linen You have to bring your own towels, but all bed linen is supplied.",
+      "table linen White table linen and candlelight add a formal touch to your meal.",
+      "[ U ] a linen jacket"
+    ],
+    "description": "strong cloth made from the fibres of the flax plant:",
+    "translate": "کتانی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/uklin/uklinct010.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/l/lin/linen/linen.mp3",
+    "different_meanings": [],
+    "pron": "/ˈlɪn.ɪn/",
     "isCambridge": true
   },
   {
@@ -24218,6 +26236,22 @@
     "pron": "/ˈkɒn.fɪ.dəns/"
   },
   {
+    "title": "Yarn",
+    "url": "https://dictionary.cambridge.org/dictionary/english/yarn",
+    "role": "noun",
+    "example": [
+      "He knew how to spin a good yarn (= tell a good story).",
+      "a boys’ adventure yarn"
+    ],
+    "description": "thread used for making cloth or for knitting",
+    "translate": "جنجال",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukx/ukxra/ukxray_027.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/y/yar/yarn_/yarn.mp3",
+    "different_meanings": ["noun - STORY", "noun - THREAD"],
+    "pron": "/jɑːn/",
+    "isCambridge": true
+  },
+  {
     "title": "Disruption",
     "url": "https://dictionary.cambridge.org/dictionary/english/disruption",
     "role": "noun",
@@ -24333,40 +26367,6 @@
     "pron": "/ˈstrʌk.tʃər/"
   },
   {
-    "title": "Congestion",
-    "url": "https://dictionary.cambridge.org/dictionary/english/Congestion",
-    "role": "adjective",
-    "example": [
-      "Congested roads are normal on holiday weekends.",
-      "The restaurant would increase traffic congestion and noise."
-    ],
-    "description": "too blocked or crowded and causing difficulties",
-    "translate": "تراکم، شلوغی",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcon/ukconfu008.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/con/conge/congested.mp3",
-    "different_meanings": [],
-    "pron": "/kənˈdʒes.tɪd/"
-  },
-  {
-    "title": "Cope",
-    "url": "https://dictionary.cambridge.org/dictionary/english/cope",
-    "role": "verb",
-    "example": [
-      "It's only been a year since he died - how's she coping (= how is she)?",
-      "He had so much pressure on him in his job that eventually he just couldn't cope.",
-      "cope with It must be really hard to cope with four children under 5.",
-      "Inside homes, many residents coped with broken glass and collapsed walls and chimneys.",
-      "Victims cope with feelings of anxiety, pain, anger, and fear."
-    ],
-    "description": "to deal successfully with a difficult situation:",
-    "translate": "مقابله کردن",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcop/ukcop__002.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cop/cope_/cope.mp3",
-    "different_meanings": [],
-    "pron": "/kəʊp/",
-    "isCambridge": true
-  },
-  {
     "title": "Permafrost",
     "url": "https://dictionary.cambridge.org/dictionary/english/permafrost",
     "role": "noun",
@@ -24466,22 +26466,6 @@
       "verb - DAMAGE PHYSICALLY"
     ],
     "pron": "/ɪˈrəʊd/"
-  },
-  {
-    "title": "Hung",
-    "url": "https://dictionary.cambridge.org/dictionary/english/hung",
-    "role": "verb",
-    "example": [
-      "hung parliament The general election in Britain was expected to result in a hung parliament.",
-      "hung jury The trial ended in a hung jury."
-    ],
-    "description": "past simple and past participle of\nhang",
-    "translate": "چرب",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhun/ukhunch009.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hun/hung_/hung.mp3",
-    "different_meanings": [],
-    "pron": "/hʌŋ/",
-    "isCambridge": true
   },
   {
     "title": "Hazard",
@@ -24992,6 +26976,26 @@
     "isCambridge": true
   },
   {
+    "title": "Hunch",
+    "url": "https://dictionary.cambridge.org/dictionary/english/hunch",
+    "role": "noun",
+    "example": [
+      "[ + that ] I had a hunch that you'd be here.",
+      "act on/follow a hunch Sometimes you have to be prepared to act on/follow a hunch.",
+      "We hunched round the fire to keep warm.",
+      "Stand up straight and don't hunch your back.",
+      "[ + that clause ] I had a hunch that you’d be here.",
+      "[ I ] We gathered in a circle and hunched over the fire to get warm."
+    ],
+    "description": "an idea that is based on feeling and for which there is no proof:",
+    "translate": "شکار",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhun/ukhunch001.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hun/hunch/hunch.mp3",
+    "different_meanings": ["noun - IDEA", "verb - BEND"],
+    "pron": "/hʌntʃ/",
+    "isCambridge": true
+  },
+  {
     "title": "Anthropology",
     "url": "https://dictionary.cambridge.org/dictionary/english/anthropology",
     "role": "noun",
@@ -25471,32 +27475,6 @@
     "pron": "/laɪ/"
   },
   {
-    "title": "Vein",
-    "url": "https://dictionary.cambridge.org/dictionary/english/vein",
-    "role": "noun",
-    "example": [
-      "A rich vein of iron ore was found in the hillside.",
-      "A vein of satirical anger runs through all his work.",
-      "In its bid to be elected, the party is attempting to tap (= use) an underlying vein of nationalism in the country.",
-      "The opening scene is very violent, and the rest of the movie continues in (a) similar vein.",
-      "After laughing about the photograph, they began to talk in (a) more serious vein about the damaging effect it could have on his career.",
-      "a vein of iron ore",
-      "She published many novels and stories in the romantic vein then popular."
-    ],
-    "description": "a tube that carries blood to the heart from the other parts of the body",
-    "translate": "رگ",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukv/ukvag/ukvagra005.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/v/vai/vain_/vain.mp3",
-    "different_meanings": [
-      "noun - MOOD",
-      "noun - QUALITY",
-      "noun - LAYER",
-      "noun - TUBE"
-    ],
-    "pron": "/veɪn/",
-    "isCambridge": true
-  },
-  {
     "title": "Niches",
     "url": "https://dictionary.cambridge.org/dictionary/english/niches",
     "role": "noun",
@@ -25520,6 +27498,38 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73207.mp3",
     "different_meanings": ["noun - POSITION", "noun - HOLLOW"],
     "pron": "/niːʃ/"
+  },
+  {
+    "title": "Refurbish",
+    "url": "https://dictionary.cambridge.org/dictionary/english/refurbish",
+    "role": "verb",
+    "example": [
+      "The developers refurbished the house inside and out.",
+      "You’ve refurbished the kitchen.",
+      "The company's Edinburgh outlet was refurbished and expanded last year.",
+      "The company, which refurbishes computers, printers, and cell phones, has continued to see growth throughout 2010.",
+      "a refurbished building/computer/store"
+    ],
+    "description": "to make a building look new again by doing work such as painting, repairing, and cleaning:",
+    "translate": "مرمت کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukref/ukrefre010.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/ref/refur/refurbish.mp3",
+    "different_meanings": [],
+    "pron": "/ˌriːˈfɜː.bɪʃ/",
+    "isCambridge": true
+  },
+  {
+    "title": "Aqueduct",
+    "url": "https://dictionary.cambridge.org/dictionary/english/aqueduct",
+    "role": "noun",
+    "example": ["Example not found"],
+    "description": "a structure for carrying water across land, especially one like a high bridge with many arches that carries pipes or a canal across a valley",
+    "translate": "قنات",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukaqu/ukaquat003.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/aqu/aqued/aqueduct.mp3",
+    "different_meanings": [],
+    "pron": "/ˈæk.wə.dʌkt/",
+    "isCambridge": true
   },
   {
     "title": "Windswept",
@@ -25697,28 +27707,6 @@
     "pron": "/dɪsˈrʌp.tɪv/"
   },
   {
-    "title": "Catering",
-    "url": "https://dictionary.cambridge.org/dictionary/english/catering",
-    "role": "noun",
-    "example": [
-      "I've always wanted to work in catering.",
-      "Who is going to do the catering for the wedding?",
-      "a high-class catering company",
-      "I wanted to work in catering, and until I was 21 I worked as a chef in hotels and bars.",
-      "The airline is proud of the quality of its in-flight catering.",
-      "Catering costs have risen sharply in the last twelve months.",
-      "a catering company/business/group",
-      "the catering trade/industry"
-    ],
-    "description": "any job making or serving food :",
-    "translate": "پذیرایی",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/c/cal/cald4/cald4uk0249.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us0354.mp3",
-    "different_meanings": [],
-    "pron": "/ˈkeɪ.tər.ɪŋ/",
-    "isCambridge": true
-  },
-  {
     "title": "Germinate",
     "url": "https://dictionary.cambridge.org/dictionary/english/germinate",
     "role": "verb",
@@ -25819,6 +27807,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dir/dire_/dire.mp3",
     "different_meanings": [],
     "pron": "/daɪər/"
+  },
+  {
+    "title": "Hemp",
+    "url": "https://dictionary.cambridge.org/dictionary/english/hemp",
+    "role": "noun",
+    "example": ["Example not found"],
+    "description": "a family of plants, some of which are used to make rope and strong, rough cloth and others of which are used to produce the drug cannabis",
+    "translate": "شاهدانه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhel/ukhellu020.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/h/hem/hemp_/hemp.mp3",
+    "different_meanings": [],
+    "pron": "/hemp/",
+    "isCambridge": true
   },
   {
     "title": "Lacy",
@@ -26325,6 +28326,34 @@
     "pron": "/ɪkˈstrɔː.dɪn.ər.i/"
   },
   {
+    "title": "Cosy",
+    "url": "https://dictionary.cambridge.org/dictionary/english/cosy",
+    "role": "adjective",
+    "example": [
+      "nice and cosy This room is nice and cosy in the winter.",
+      "cosy little He showed me into a cosy little room.",
+      "This queen of crime fiction is the name most closely associated with a cosy mystery.",
+      "She wrote detective fiction of the kind US mystery fans refer to as \"cosy\".",
+      "He has some cosy arrangement/deal with his supplier, which means he's able to sell his goods more cheaply.",
+      "a tea cosy",
+      "an egg cosy",
+      "Where \"cosies\" differ from the rest of crime fiction is in the manner of their telling (no swearing, for example) and their settings, typically a rural area or small cathedral town.",
+      "The detective in a cosy is almost always an amateur, and frequently a woman."
+    ],
+    "description": "comfortable and pleasant, especially (of a building) because of being small and warm:",
+    "translate": "دنج",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcos/ukcossa013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/coz/cozy_/cozy.mp3",
+    "different_meanings": [
+      "noun - STORY",
+      "adjective - COMFORTABLE",
+      "adjective - TOO CLOSE",
+      "noun - WARM COVER"
+    ],
+    "pron": "/ˈkəʊ.zi/",
+    "isCambridge": true
+  },
+  {
     "title": "Realism",
     "url": "https://dictionary.cambridge.org/dictionary/english/realism",
     "role": "noun",
@@ -26633,6 +28662,29 @@
     "isCambridge": true
   },
   {
+    "title": "Amend",
+    "url": "https://dictionary.cambridge.org/dictionary/english/amend",
+    "role": "verb",
+    "example": [
+      "MPs were urged to amend the law to prevent another oil tanker disaster.",
+      "In line 20, \"men\" should be amended (= changed) to \"people\".",
+      "Until the constitution is amended, the power to appoint ministers will remain with the president.",
+      "The terms of the contract were amended in later years.",
+      "They were too hasty to amend or drop initiatives that did not work immediately.",
+      "amend sth to sth In line 20, 'men' should be amended to 'people'.",
+      "amend a bill/law He will try to amend the bill to shift more of the money to conservation.",
+      "The proposals would amend the Insolvency Act of 1986 to prevent potentially viable small businesses from being forced into receivership.",
+      "Until the constitution is amended, the power to appoint ministers will remain with the president."
+    ],
+    "description": "to change the words of a text, especially a law or a legal document:",
+    "translate": "اصلاح کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukamb/ukambit018.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/ame/amend/amend.mp3",
+    "different_meanings": [],
+    "pron": "/əˈmend/",
+    "isCambridge": true
+  },
+  {
     "title": "Patronise",
     "url": "https://dictionary.cambridge.org/dictionary/english/patronise",
     "role": "verb",
@@ -26655,6 +28707,33 @@
       "verb - ACT SUPERIOR"
     ],
     "pron": "/ˈpæt.rə.naɪz/",
+    "isCambridge": true
+  },
+  {
+    "title": "Inspire",
+    "url": "https://dictionary.cambridge.org/dictionary/english/inspire",
+    "role": "verb",
+    "example": [
+      "His confident leadership inspired his followers.",
+      "[ + to infinitive ] After her trip to Venezuela, she felt inspired to learn Spanish.",
+      "She inspires great loyalty among her followers.",
+      "inspire someone with something The captain's heroic effort inspired them with determination.",
+      "a piece of music inspired by dolphin sounds",
+      "The design of the car has inspired many imitations.",
+      "When you inspire, you draw air into your lungs.",
+      "The concentration of oxygen in inspired anesthetic gases should never be less than 21%.",
+      "She inspired her students to do the best they could.",
+      "A successful TV program inspires many imitations."
+    ],
+    "description": "to make someone feel that they want to do something and can do it:",
+    "translate": "الهام کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukins/ukinspe005.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72451.mp3",
+    "different_meanings": [
+      "verb - BREATHE IN",
+      "verb - GIVE AN IDEA OR FEELING"
+    ],
+    "pron": "/ɪnˈspaɪər/",
     "isCambridge": true
   },
   {
@@ -26690,6 +28769,19 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usw/uswei/usweird012.mp3",
     "different_meanings": [],
     "pron": "/ˌwelˈbiː.ɪŋ/"
+  },
+  {
+    "title": "Pacifier",
+    "url": "https://dictionary.cambridge.org/dictionary/english/pacifier",
+    "role": "noun",
+    "example": ["Example not found"],
+    "description": "something that makes people calm when they are angry or upset",
+    "translate": "پستانک",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uko/ukozo/ukozone016.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pac/pacif/pacifier.mp3",
+    "different_meanings": [],
+    "pron": "/ˈpæs.ɪ.faɪ.ər/",
+    "isCambridge": true
   },
   {
     "title": "Desirable",
@@ -26988,38 +29080,6 @@
     "pron": "/ˈlaɪv.stɒk/"
   },
   {
-    "title": "Rack",
-    "url": "https://dictionary.cambridge.org/dictionary/english/rack",
-    "role": "noun",
-    "example": [
-      "a vegetable rack",
-      "a plate rack",
-      "a luggage rack",
-      "The butcher prepared a rack of pork.",
-      "We're having rack of lamb for dinner.",
-      "go to rack and ruin The whole farm was going to rack and ruin.",
-      "Even at the end, when cancer racked his body, he was calm and cheerful.",
-      "The dog was already racked by/with the pains of old age.",
-      "He was racked by/with doubts/guilt.",
-      "a bike rack",
-      "a towel rack",
-      "Even near the end, when cancer racked his body, he remained hopeful."
-    ],
-    "description": "a frame or shelf, often formed of bars, that is used to hold things:",
-    "translate": "رک",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrab/ukrabbi023.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rac/rack_/rack.mp3",
-    "different_meanings": [
-      "noun - DECAY",
-      "noun - MEAT",
-      "noun - FRAME",
-      "noun - MACHINE",
-      "verb - CAUSE PAIN"
-    ],
-    "pron": "/ræk/",
-    "isCambridge": true
-  },
-  {
     "title": "Clamouring",
     "url": "https://dictionary.cambridge.org/dictionary/english/clamouring",
     "role": "verb",
@@ -27181,6 +29241,33 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/uss/usscr/usscrum019.mp3",
     "different_meanings": [],
     "pron": "/ˈsiː.bed/",
+    "isCambridge": true
+  },
+  {
+    "title": "Roughly",
+    "url": "https://dictionary.cambridge.org/dictionary/english/roughly",
+    "role": "adverb",
+    "example": [
+      "There has been an increase of roughly 2.25 million.",
+      "Roughly speaking, it's 2.25 million.",
+      "We have roughly similar tastes/roughly the same tastes.",
+      "Roughly chop the tomatoes.",
+      "He pushed the children roughly to one side.",
+      "\"And what's going on here?\" he said roughly.",
+      "He pushed the luggage roughly to the side.",
+      "The town’s population has roughly doubled.",
+      "Roughly $104.8 million was spent on lottery tickets in 2006."
+    ],
+    "description": "approximately:",
+    "translate": "تقریباً",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrou/ukrough003.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rou/rough/roughly.mp3",
+    "different_meanings": [
+      "adverb - NOT EXACTLY",
+      "adverb - VIOLENTLY",
+      "adverb - NOT EVENLY"
+    ],
+    "pron": "/ˈrʌf.li/",
     "isCambridge": true
   },
   {
@@ -27517,6 +29604,26 @@
     "pron": "/leɪd/"
   },
   {
+    "title": "Divergence",
+    "url": "https://dictionary.cambridge.org/dictionary/english/divergence",
+    "role": "noun",
+    "example": [
+      "divergence between The divergence between the incomes of the rich and the poor countries seems to be increasing.",
+      "divergence from Recently published statistics show a divergence from previous trends.",
+      "a divergence of opinion",
+      "The figures reveal a marked divergence between public sector pay settlements and those in the private sector.",
+      "Funds investing in credit-rated bonds are all holding much the same investments, so the divergence in performance is not significant.",
+      "a considerable/significant/sharp divergence"
+    ],
+    "description": "the situation in which two things become different:",
+    "translate": "واگرایی",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdis/ukdisun022.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71335.mp3",
+    "different_meanings": [],
+    "pron": "/daɪˈvɜː.dʒəns/",
+    "isCambridge": true
+  },
+  {
     "title": "Marvel",
     "url": "https://dictionary.cambridge.org/dictionary/english/Marvel",
     "role": "verb",
@@ -27801,6 +29908,23 @@
     "pron": "/ˈmaɪ.ɡrənt/"
   },
   {
+    "title": "Cardboard",
+    "url": "https://dictionary.cambridge.org/dictionary/english/cardboard",
+    "role": "noun",
+    "example": [
+      "a cardboard box",
+      "I've never enjoyed his plays - somehow all his characters are cardboard.",
+      "She packed the books in a cardboard box."
+    ],
+    "description": "material like very thick, stiff paper, usually pale brown in colour, used especially for making boxes:",
+    "translate": "مقوا",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcar/ukcarap022.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/c/car/cardb/cardboard.mp3",
+    "different_meanings": [],
+    "pron": "/ˈkɑːd.bɔːd/",
+    "isCambridge": true
+  },
+  {
     "title": "Conquered",
     "url": "https://dictionary.cambridge.org/dictionary/english/conquered",
     "role": "verb",
@@ -28065,27 +30189,6 @@
     "pron": "/ɪmˈpeəd/"
   },
   {
-    "title": "Affordable",
-    "url": "https://dictionary.cambridge.org/dictionary/english/affordable",
-    "role": "adjective",
-    "example": [
-      "nice clothes at affordable prices",
-      "affordable housing They have increased their provision of affordable housing in order to make home ownership accessible to buyers who would otherwise be unable to buy.",
-      "According to the guidelines, ten percent of the dwellings in the development must be affordable.",
-      "Affordable housing isn’t enough – we also need job opportunities.",
-      "They are meeting consumer demand for fashionable products at affordable prices.",
-      "affordable homes.",
-      "keep sth/make sth affordable The Prius is heavily subsidised by Toyota to keep it affordable.",
-      "affordable for/to sb Will space flight ever be affordable for the masses?"
-    ],
-    "description": "not expensive:",
-    "translate": "مقرون به صرفه",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukaff/ukaffir012.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/aff/affor/affordable.mp3",
-    "different_meanings": [],
-    "pron": "/əˈfɔː.də.bəl/"
-  },
-  {
     "title": "Pursue",
     "url": "https://dictionary.cambridge.org/dictionary/english/Pursue",
     "role": "verb",
@@ -28245,6 +30348,57 @@
     "pron": "/tend/"
   },
   {
+    "title": "Faulty",
+    "url": "https://dictionary.cambridge.org/dictionary/english/faulty",
+    "role": "adjective",
+    "example": [
+      "faulty wiring/brakes",
+      "faulty brakes",
+      "His arguments were based on faulty reasoning.",
+      "The company recalled over 500,000 cars last year because of a faulty connection in their new model.",
+      "The verdict was based on faulty reasoning on the part of the jury.",
+      "Faulty record-keeping meant that many patients did not get appropriate treatment."
+    ],
+    "description": "A faulty machine or device is not perfectly made or does not work correctly:",
+    "translate": "معیوب",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfau/ukfault003.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/f/fau/fault/faulty.mp3",
+    "different_meanings": [],
+    "pron": "/ˈfɒl.ti/",
+    "isCambridge": true
+  },
+  {
+    "title": "Manner",
+    "url": "https://dictionary.cambridge.org/dictionary/english/manner",
+    "role": "noun",
+    "example": [
+      "She stared at me in an accusing manner.",
+      "He was elected in the normal manner.",
+      "It was the manner of her death that stuck in the public's mind.",
+      "Her latest film is a suspense thriller very much in the manner of Hitchcock.",
+      "She has a somewhat cold, unfriendly manner.",
+      "As soon as he realized that we weren't going to buy anything, his whole manner changed.",
+      "He needs to be taught some manners.",
+      "Very little is known about the new candidate - what manner of man is he?",
+      "Please exit the building in an orderly manner.",
+      "His manner was formal, though friendly.",
+      "She had a warm smile and an engaging manner."
+    ],
+    "description": "the way in which something is done:",
+    "translate": "روش",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukman/ukmanli004.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/m/man/manne/manner.mp3",
+    "different_meanings": [
+      "noun - POLITE BEHAVIOUR",
+      "noun - BEHAVIOUR",
+      "noun - BEHAVIOR",
+      "noun - WAY",
+      "noun - TYPE"
+    ],
+    "pron": "/ˈmæn.ər/",
+    "isCambridge": true
+  },
+  {
     "title": "Lauded",
     "url": "https://dictionary.cambridge.org/dictionary/english/lauded",
     "role": "verb",
@@ -28272,6 +30426,23 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73779.mp3",
     "different_meanings": [],
     "pron": "/ˌpʌnk.tʃuˈæl.ə.ti/",
+    "isCambridge": true
+  },
+  {
+    "title": "Entrench",
+    "url": "https://dictionary.cambridge.org/dictionary/english/entrench",
+    "role": "verb",
+    "example": [
+      "The government's main task was to prevent inflation from entrenching itself.",
+      "This bold and comprehensive programme aims to restore growth, entrench low inflation, and reduce the public debt.",
+      "The company's management and directors have entrenched themselves by changing the voting requirements for expansion of the board."
+    ],
+    "description": "to firmly establish something, especially an idea or a problem, so that it cannot be changed:",
+    "translate": "گندیدن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukent/ukentic025.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/use/usenl/usenlis029.mp3",
+    "different_meanings": [],
+    "pron": "/ɪnˈtrentʃ/",
     "isCambridge": true
   },
   {
@@ -28481,19 +30652,6 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73679.mp3",
     "different_meanings": [],
     "pron": "/ˈpred.ə.tər/",
-    "isCambridge": true
-  },
-  {
-    "title": "Aqueduct",
-    "url": "https://dictionary.cambridge.org/dictionary/english/aqueduct",
-    "role": "noun",
-    "example": ["Example not found"],
-    "description": "a structure for carrying water across land, especially one like a high bridge with many arches that carries pipes or a canal across a valley",
-    "translate": "قنات",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uka/ukaqu/ukaquat003.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/a/aqu/aqued/aqueduct.mp3",
-    "different_meanings": [],
-    "pron": "/ˈæk.wə.dʌkt/",
     "isCambridge": true
   },
   {
@@ -28761,6 +30919,23 @@
     "isCambridge": true
   },
   {
+    "title": "Imminent",
+    "url": "https://dictionary.cambridge.org/dictionary/english/imminent",
+    "role": "adjective",
+    "example": [
+      "imminent disaster/danger",
+      "A strike is imminent.",
+      "A rain storm was imminent."
+    ],
+    "description": "coming or likely to happen very soon:",
+    "translate": "قریب الوقوع",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukimm/ukimmac023.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/i/imm/immin/imminent.mp3",
+    "different_meanings": [],
+    "pron": "/ˈɪm.ɪ.nənt/",
+    "isCambridge": true
+  },
+  {
     "title": "Staggered",
     "url": "https://dictionary.cambridge.org/dictionary/english/staggered",
     "role": "adjective",
@@ -28909,6 +31084,22 @@
     "pron": "/pəˈreɪd/"
   },
   {
+    "title": "Subtly",
+    "url": "https://dictionary.cambridge.org/dictionary/english/subtly",
+    "role": "adverb",
+    "example": [
+      "His expression changed subtly.",
+      "This discovery had subtly changed/altered the way I thought about myself."
+    ],
+    "description": "in a way that is small and difficult to notice or describe, but important:",
+    "translate": "ظالمانه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksub/uksubsp024.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/sub/subtl/subtly.mp3",
+    "different_meanings": [],
+    "pron": "/ˈsʌt.əl.i/",
+    "isCambridge": true
+  },
+  {
     "title": "Awning",
     "url": "https://dictionary.cambridge.org/dictionary/english/awning",
     "role": "noun",
@@ -28943,6 +31134,23 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pas/passi/passion.mp3",
     "different_meanings": ["noun - STRONG INTEREST", "noun - EMOTION"],
     "pron": "/ˈpæʃ.ən/"
+  },
+  {
+    "title": "Incentivize",
+    "url": "https://dictionary.cambridge.org/dictionary/english/incentivize",
+    "role": "verb",
+    "example": [
+      "We need to incentivize our sales managers to achieve these targets.",
+      "incentivize sb to do sth They incentivized workers to adopt the less expensive health care plan by giving more paid vacation.",
+      "Headquarters has incentivized employees with free offers of tickets to sporting events."
+    ],
+    "description": "to make someone want to do something:",
+    "translate": "مشاجره کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/c/cuk/cuk03/cuk03041.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld2s054.mp3",
+    "different_meanings": [],
+    "pron": "/ɪnˈsen.tɪ.vaɪz/",
+    "isCambridge": true
   },
   {
     "title": "Withstand",
@@ -29257,6 +31465,26 @@
     "pron": "/vɑːz/"
   },
   {
+    "title": "Incident",
+    "url": "https://dictionary.cambridge.org/dictionary/english/incident",
+    "role": "noun",
+    "example": [
+      "an isolated/serious/unfortunate incident",
+      "A youth was seriously injured in a shooting incident on Saturday night.",
+      "Despite fears of violence, the demonstration passed off without incident.",
+      "an incident ray/wave",
+      "[ C ] Many shipping companies do not report incidents of piracy, for fear of raising their insurance rates.",
+      "[ U ] The demonstration took place without incident."
+    ],
+    "description": "an event that is either unpleasant or unusual:",
+    "translate": "حادثه",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukinc/ukincen013.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/i/inc/incid/incident.mp3",
+    "different_meanings": ["adjective - HITTING A SURFACE", "noun - EVENT"],
+    "pron": "/ˈɪn.sɪ.dənt/",
+    "isCambridge": true
+  },
+  {
     "title": "Pedestrian",
     "url": "https://dictionary.cambridge.org/dictionary/english/Pedestrian",
     "role": "noun",
@@ -29482,41 +31710,6 @@
     "pronounce_audio_us_link": "Audio not found",
     "different_meanings": [],
     "pron": "Pron not found",
-    "isCambridge": true
-  },
-  {
-    "title": "Reckon",
-    "url": "https://dictionary.cambridge.org/dictionary/english/reckon",
-    "role": "verb",
-    "example": [
-      "I reckon it's going to rain.",
-      "[ + (that) ] How much do you reckon (that) it's going to cost?",
-      "\"Can you fix my car today?\" \"I reckon not/so (= probably not/probably).\"",
-      "I don't reckon much to (US of) their chances of winning (= I do not think they will win).",
-      "She was widely reckoned (to be) the best actress of her generation.",
-      "Angela quickly reckoned the amount on her fingers.",
-      "The inflation rate is now reckoned to be 10 percent.",
-      "Do you reckon this watch has a little value?",
-      "[ + that clause ] Brusca reckons that the value of all goods and services produced declined last quarter.",
-      "She reckoned they were both equally responsible.",
-      "She was widely reckoned to be the best actress of her generation.",
-      "I reckon I better get goin’ now.",
-      "By my reckoning, we should get there in another hour or so.",
-      "Fees are reckoned in Euros but can be paid in any currency.",
-      "The authors reckon that public sector debt is over 65% of GDP.",
-      "sth is reckoned to be sth The market value is reckoned to be 10 million dollars.",
-      "The deal is reckoned to be worth $14.4 billion."
-    ],
-    "description": "to think or believe:",
-    "translate": "حساب کردن",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrec/ukrecep025.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/r/rec/recko/reckon.mp3",
-    "different_meanings": [
-      "verb - THINK",
-      "verb - CONSIDER",
-      "verb - CALCULATE"
-    ],
-    "pron": "/ˈrek.ən/",
     "isCambridge": true
   },
   {
@@ -30358,6 +32551,23 @@
     "pron": "/nɒt/"
   },
   {
+    "title": "Orientate",
+    "url": "https://dictionary.cambridge.org/dictionary/english/orientate",
+    "role": "verb",
+    "example": [
+      "It is essential that the public sector orientates itself more towards the consumer.",
+      "If you get lost while you are out walking, try to use the sun to orientate yourself.",
+      "orientate sth toward(s) sb/sth It is essential that our business should orientate itself towards our key customers."
+    ],
+    "description": "to aim something at someone or something, or make something suitable for a particular group of people:",
+    "translate": "جهت یابی کردن",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/e/epd/epd32/epd32586.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/o/ori/orien/orientate_orient.mp3",
+    "different_meanings": ["verb - AIM", "verb - FIND POSITION"],
+    "pron": "/ˈɔː.ri.ən.teɪt/",
+    "isCambridge": true
+  },
+  {
     "title": "Scrap",
     "url": "https://dictionary.cambridge.org/dictionary/english/scrap",
     "role": "verb",
@@ -30786,6 +32996,45 @@
     "pron": "/ˈspaɪ.ni/"
   },
   {
+    "title": "Bombardment",
+    "url": "https://dictionary.cambridge.org/dictionary/english/bombardment",
+    "role": "noun",
+    "example": [
+      "aerial bombardment",
+      "The bombardment had begun several days earlier, destroying many buildings.",
+      "A president is under constant bombardment from every direction.",
+      "Because you face such a bombardment of hostility, your initial response is to defend yourself."
+    ],
+    "description": "a continuous attack on a place with guns or bombs:",
+    "translate": "بمباران",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbol/ukbolsh009.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/b/bom/bomba/bombardment.mp3",
+    "different_meanings": [],
+    "pron": "/bɒmˈbɑːd.mənt/",
+    "isCambridge": true
+  },
+  {
+    "title": "Biased",
+    "url": "https://dictionary.cambridge.org/dictionary/english/biased",
+    "role": "adjective",
+    "example": [
+      "The newspapers gave a very biased report of the meeting.",
+      "I think she's beautiful but then I'm biased since she's my daughter.",
+      "The unexpected results may be partially due to the biased sample used in the study.",
+      "The newspapers gave a biased report of the meeting.",
+      "biased against sb/sth He believes the American justice system is biased against blacks.",
+      "biased in favour of sb/sth They claimed that the settlement was biased in favour of corporate clients.",
+      "A biased sample of interviewees has a set of characteristics that are different from those of the population as a whole."
+    ],
+    "description": "showing an unreasonable like or dislike for someone or something based on personal opinions:",
+    "translate": "مغرض",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbfp/ukbfpo_006.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/b/bia/biase/biased.mp3",
+    "different_meanings": [],
+    "pron": "/ˈbaɪ.əst/",
+    "isCambridge": true
+  },
+  {
     "title": "Lessen",
     "url": "https://dictionary.cambridge.org/dictionary/english/lessen",
     "role": "verb",
@@ -30825,6 +33074,22 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70951.mp3",
     "different_meanings": [],
     "pron": "/kənˈfaɪn/",
+    "isCambridge": true
+  },
+  {
+    "title": "Sceptic",
+    "url": "https://dictionary.cambridge.org/dictionary/english/sceptic",
+    "role": "noun",
+    "example": [
+      "People say it can cure colds, but I'm a bit of a sceptic.",
+      "to convince the sceptics"
+    ],
+    "description": "a person who doubts the truth or value of an idea or belief:",
+    "translate": "شکاک",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksca/ukscarl025.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/s/ske/skept/skeptic.mp3",
+    "different_meanings": [],
+    "pron": "/ˈskep.tɪk/",
     "isCambridge": true
   },
   {
@@ -30902,6 +33167,24 @@
     "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pre/preva/prevalent.mp3",
     "different_meanings": [],
     "pron": "/ˈprev.əl.ənt/"
+  },
+  {
+    "title": "Disproportionate",
+    "url": "https://dictionary.cambridge.org/dictionary/english/disproportionate",
+    "role": "adjective",
+    "example": [
+      "disproportionate number There are a disproportionate number of girls in the class.",
+      "disproportionate to The country's great influence in the world is disproportionate to its relatively small size.",
+      "The sheer size of the company gave it disproportionate influence in dealing with the Pentagon and Congress.",
+      "Unemployment in Iowa is disproportionately high."
+    ],
+    "description": "too large or too small in comparison to something else, or not deserving its importance or influence:",
+    "translate": "متناسب",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdis/ukdispl017.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/d/dis/dispr/disproportionate.mp3",
+    "different_meanings": [],
+    "pron": "/ˌdɪs.prəˈpɔː.ʃən.ət/",
+    "isCambridge": true
   },
   {
     "title": "Drone",
@@ -31000,6 +33283,23 @@
       "noun - PICTURE"
     ],
     "pron": "/ˈɪm.ɪdʒ/"
+  },
+  {
+    "title": "Plausible",
+    "url": "https://dictionary.cambridge.org/dictionary/english/plausible",
+    "role": "adjective",
+    "example": [
+      "a plausible explanation/excuse",
+      "a plausible salesman",
+      "a plausible excuse/explanation"
+    ],
+    "description": "seeming likely to be true, or able to be believed:",
+    "translate": "قابل قبول",
+    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpla/ukplate017.mp3",
+    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/p/pla/plaus/plausible.mp3",
+    "different_meanings": [],
+    "pron": "/ˈplɔː.zə.bəl/",
+    "isCambridge": true
   },
   {
     "title": "Replenishment",
@@ -31124,75 +33424,6 @@
     "different_meanings": [],
     "pron": "/træm/",
     "isCambridge": true
-  },
-  {
-    "title": "Bear",
-    "url": "https://dictionary.cambridge.org/dictionary/english/Bear",
-    "role": "verb",
-    "example": [
-      "The strain must have been enormous but she bore it well.",
-      "Tell me now! I can't bear the suspense!",
-      "[ + to infinitive ] He couldn't bear to see the dog in pain.",
-      "[ + -ing verb ] I can't bear being bored.",
-      "bear responsibility It's your decision - you have to bear the responsibility if things go wrong.",
-      "bear the burden They say that landlords should bear the burden of these repairs and not tenants.",
-      "bear the cost I suggest you claim on your insurance rather than bearing the cost yourselves.",
-      "\"What if she'd been driving faster?\" \"It doesn't bear thinking about.\"",
-      "bear something in mind Thank you for your advice - I'll bear it in mind (= I will remember and consider it).",
-      "bear a resemblance to Their baby bears a strong resemblance to its grandfather.",
-      "bear no resemblance to The game is colourful and exciting, but bears no resemblance to (= is completely different from) real driving.",
-      "The stone plaque bearing his name was smashed to pieces.",
-      "On display were boxing gloves that bore Rocky Marciano's signature.",
-      "[ + two objects ] I don't bear them any ill feeling (= I do not continue to be angry with or dislike them).",
-      "bear someone's weight The chair, too fragile to bear her weight, collapsed.",
-      "bear the weight of I don't think that the table will bear the weight of the heavy machinery.",
-      "The pear tree they planted has never borne fruit.",
-      "She had borne six children by the time she was 30.",
-      "[ + two objects ] When his wife bore him a child he could not hide his delight.",
-      "Most animals bear their young in the spring.",
-      "bear gifts At Christmas the family all arrive at the house bearing gifts.",
-      "Countless waiters bore trays of drinks into the room.",
-      "The sound of the ice cream van was borne into the office on the wind.",
-      "bear left After you go past the church keep bearing left.",
-      "bear right Bear right at the fork in the road.",
-      "The path followed the coastline for several miles, then bore inland.",
-      "bear witness to She bore witness to his patience and diligence.",
-      "The iron bridge bears testimony to the skills developed in that era.",
-      "He accused his neighbour of bearing false witness against him.",
-      "A mother bear is fiercely protective of her cubs.",
-      "a brown/black bear",
-      "a black/grizzly/polar bear",
-      "Fans bearing banners ringed the stadium.",
-      "The bridge has to be strengthened to bear heavier loads.",
-      "[ T ] Since you will bear most of the responsibility, you should get the rewards.",
-      "[ + to infinitive ] He could not bear to see her suffering.",
-      "My life bore little resemblance to what I’d hoped for.",
-      "She bore three children in five years.",
-      "After you pass the light, bear left until you come to a bank.",
-      "The brokerage, which has been a persistent bear in recent months, switched its recommendation from sell to hold.",
-      "The bears are driven by bad economic news from Japan, such as July's 2.4% monthly slump in industrial production."
-    ],
-    "description": "to accept, tolerate, or endure something, especially something unpleasant:",
-    "translate": "خرس",
-    "pronounce_audio_uk_link": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukban/ukbanqu030.mp3",
-    "pronounce_audio_us_link": "https://dictionary.cambridge.org/media/english/us_pron/b/bar/bare_/bare.mp3",
-    "different_meanings": [
-      "verb - ACCEPT",
-      "verb - SAY",
-      "verb - SUPPORT",
-      "verb - CARRY",
-      "verb - BRING",
-      "noun - FINANCE",
-      "verb - HAVE",
-      "verb - TRAVEL",
-      "verb - KEEP, HAVE",
-      "verb - PRODUCE",
-      "verb - CHANGE DIRECTION",
-      "noun - ANIMAL",
-      "verb - ACCEPT, TAKE",
-      "noun - MAN"
-    ],
-    "pron": "/beər/"
   },
   {
     "title": "Contradictory",
